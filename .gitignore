@@ -1,0 +1,7 @@
+# Ignore the massive Plex Database config folder 
+# so we don't upload thousands of movie posters to GitHub!
+config/
+
+# OS
+.DS_Store
+Thumbs.db
