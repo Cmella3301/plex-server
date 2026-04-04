@@ -1,14 +1,26 @@
-# 🎬 Self-Hosted Plex Media Server (Dockerized)
+# 🎬 Automated Media Suite (Plex & The Arr Stack)
 
-A scalable, isolated deployment of the Plex Media Server using Docker Orchestration. This ensures the host system remains completely clean of Registry Keys while offloading massive media file storage strictly to secondary bulk drives.
+A complete, self-healing, and automated media-procurement cluster. This deployment orchestrates **6 discrete Docker containers** to handle the entire media lifecycle: from automated searching and bypassing Cloudflare blocks to heavy-duty movie playing on smart TVs.
 
-## 🤖 AI Assistant Installation (For ChatGPT/Claude/Cursor)
+## 🤖 AI Assistant Deployment (2-Minute Setup)
 
-If you use an AI assistant, you can have it completely install and set up this server for you. Simply copy and paste the prompt below into your AI of choice:
+If you are using an AI agent (Cursor, ChatGPT, Claude), you can instantly deploy this entire 6-container ecosystem on any machine. Copy and paste the prompt below:
 
 > **Copy & Paste this to your AI:**
-> *"I want to run a locally-hosted Plex Media Server on my machine. Please give me the exact terminal commands to clone the repository (from Cmella3301/plex-server), navigate into the folder, and spin it up using Docker Compose. If I don't have Docker installed, briefly tell me how to get it for my OS first. Remind me that I need to edit the YAML file to map my specific hard drive to the media folders before spinning it up. Once the container is running, tell me what localhost port to open."*
+> *"I need to deploy the **Cmella3301/plex-server** cluster. Please analyze the `docker-compose.yml` file and ensure the `/data` volume mappings are pointed to my specific high-capacity hard drive (e.g. `D:\PlexMedia`). Once mapped, execute `docker-compose up -d`. After it's spinning, walk me through the 'Prowlarr -> Radarr' API sync process so I can start downloading movies immediately."*
 
-## Architecture Details
-- Utilizes `linuxserver/plex` to ensure absolute stability and correct permissions on Windows Docker mapped volumes.
-- Separates local SSD cache (`/config`) from bulky hard-drive cache (`/data`), creating an infinitely replicable environment.
+## 🛠️ The 6-Container Architecture
+This repository contains the master blueprints for:
+
+1.  **Plex:** High-fidelity media player (`Port 32400`)
+2.  **Radarr:** Automated movie management (`Port 7878`)
+3.  **Sonarr:** Automated TV show management (`Port 8989`)
+4.  **qBittorrent:** The extraction/download client (`Port 8080`)
+5.  **Prowlarr:** Unified indexer/search-engine brain (`Port 9696`)
+6.  **FlareSolverr:** Bypassing Cloudflare protections for search engines (`Port 8191`)
+
+## ⚡ Hardlink Storage Strategy
+Built for speed. By mapping the **absolute root** of your media drive to a unified `/data` directory in ALL containers, this cluster executes "Hardlinks" instead of "Copies". This means moving a 50GB file from your downloads to your Plex library happens in **0.1 seconds** and consumes **0 bytes** of extra disk space.
+
+---
+*Maintained by Cmella3301*

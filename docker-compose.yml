@@ -10,8 +10,7 @@ services:
       - VERSION=docker
     volumes:
       - ./config:/config
-      - "D:\\PlexMedia\\tv:/data/tv"
-      - "D:\\PlexMedia\\movies:/data/movies"
+      - "D:\\PlexMedia:/data"
     ports:
       - "32400:32400/tcp"
       - "1900:1900/udp"
@@ -22,4 +21,72 @@ services:
       - "32412:32412/udp"
       - "32413:32413/udp"
       - "32414:32414/udp"
+    restart: unless-stopped
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - ./radarr-config:/config
+      - "D:\\PlexMedia:/data"
+    ports:
+      - "7878:7878/tcp"
+    restart: unless-stopped
+
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - ./sonarr-config:/config
+      - "D:\\PlexMedia:/data"
+    ports:
+      - "8989:8989/tcp"
+    restart: unless-stopped
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+      - WEBUI_PORT=8080
+    volumes:
+      - ./qbit-config:/config
+      - "D:\\PlexMedia:/data"
+    ports:
+      - "8080:8080/tcp"
+      - "6881:6881/tcp"
+      - "6881:6881/udp"
+    restart: unless-stopped
+
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - ./prowlarr-config:/config
+    ports:
+      - "9696:9696/tcp"
+    restart: unless-stopped
+
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=info
+      - TZ=America/New_York
+    ports:
+      - "8191:8191"
     restart: unless-stopped

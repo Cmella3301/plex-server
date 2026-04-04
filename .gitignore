@@ -1,7 +1,12 @@
-# Ignore the massive Plex Database config folder 
-# so we don't upload thousands of movie posters to GitHub!
+# Media Automation Configs (SENSITIVE)
 config/
+radarr-config/
+sonarr-config/
+prowlarr-config/
+qbit-config/
 
-# OS
+# OS/System files
 .DS_Store
 Thumbs.db
+desktop.ini
+*.log
