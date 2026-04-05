@@ -1,31 +1,32 @@
 version: "3.8"
+networks:
+  media-network:
+    driver: bridge
+
 services:
   plex:
     image: lscr.io/linuxserver/plex:latest
     container_name: plex
+    networks:
+      - media-network
     environment:
       - PUID=1000
       - PGID=1000
       - TZ=America/New_York
+      - PLEX_CLAIM=claim-tgd-QxGHsaHsfCUTAZUh
       - VERSION=docker
     volumes:
       - ./config:/config
       - "D:\\PlexMedia:/data"
     ports:
       - "32400:32400/tcp"
-      - "1900:1900/udp"
-      - "3005:3005/tcp"
-      - "8324:8324/tcp"
-      - "32469:32469/tcp"
-      - "32410:32410/udp"
-      - "32412:32412/udp"
-      - "32413:32413/udp"
-      - "32414:32414/udp"
     restart: unless-stopped
 
   radarr:
     image: lscr.io/linuxserver/radarr:latest
     container_name: radarr
+    networks:
+      - media-network
     environment:
       - PUID=1000
       - PGID=1000
@@ -40,6 +41,8 @@ services:
   sonarr:
     image: lscr.io/linuxserver/sonarr:latest
     container_name: sonarr
+    networks:
+      - media-network
     environment:
       - PUID=1000
       - PGID=1000
@@ -54,6 +57,8 @@ services:
   deluge:
     image: lscr.io/linuxserver/deluge:latest
     container_name: deluge
+    networks:
+      - media-network
     environment:
       - PUID=1000
       - PGID=1000
@@ -72,6 +77,8 @@ services:
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
     container_name: prowlarr
+    networks:
+      - media-network
     environment:
       - PUID=1000
       - PGID=1000
@@ -85,6 +92,8 @@ services:
   flaresolverr:
     image: ghcr.io/flaresolverr/flaresolverr:latest
     container_name: flaresolverr
+    networks:
+      - media-network
     environment:
       - LOG_LEVEL=info
       - TZ=America/New_York

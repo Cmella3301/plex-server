@@ -1,26 +1,23 @@
-# 🎬 Automated Media Suite (Plex & The Arr Stack)
+# 🏰 The Mortal Kombat Media Cluster
 
-A complete, self-healing, and automated media-procurement cluster. This deployment orchestrates **6 discrete Docker containers** to handle the entire media lifecycle: from automated searching and bypassing Cloudflare blocks to heavy-duty movie playing on smart TVs.
+A fully automated, self-healing media procurement and playback stack orchestrated via Docker Compose.
 
-## 🤖 AI Assistant Deployment (2-Minute Setup)
+## 🤖 AI Assistant Deployment (For Claude/ChatGPT/Cursor)
 
-If you are using an AI agent (Cursor, ChatGPT, Claude), you can instantly deploy this entire 6-container ecosystem on any machine. Copy and paste the prompt below:
+If you ever need to move this server to a new computer or fix it instantly, simply copy and paste the prompt below into your AI of choice:
 
 > **Copy & Paste this to your AI:**
-> *"I need to deploy the **Cmella3301/plex-server** cluster. Please analyze the `docker-compose.yml` file and ensure the `/data` volume mappings are pointed to my specific high-capacity hard drive (e.g. `D:\PlexMedia`). Once mapped, execute `docker-compose up -d`. After it's spinning, walk me through the 'Prowlarr -> Radarr' API sync process so I can start downloading movies immediately."*
+> *"I have a locally-hosted media server located in `C:\Users\Mella\Documents\plex-server`. It uses a 6-container Docker Compose stack (Plex, Radarr, Deluge, Prowlarr, FlareSolverr). Please check my `docker-compose.yml` to ensure the volumes for `D:\PlexMedia` are mapped correctly. Check the `deluge-config` for the correct password and ensure the internal download paths are set to `/data/downloads` in the `core.conf`. If I am having difficulty with 'Host not found' errors, verify my host VPN status and add `dns: 1.1.1.1` to the containers if necessary. Once everything is running, tell me the ports for Plex (32400), Radarr (7878), and Deluge (8112)."*
 
-## 🛠️ The 6-Container Architecture
-This repository contains the master blueprints for:
+## 📦 Included Services
+- **Plex:** Media playback and library management.
+- **Radarr:** Automated movie discovery and management.
+- **Deluge (The Tank):** High-speed automated downloader.
+- **Prowlarr:** Centralized indexer/search brain.
+- **FlareSolverr:** Automated Cloudflare bypass proxy.
 
-1.  **Plex:** High-fidelity media player (`Port 32400`)
-2.  **Radarr:** Automated movie management (`Port 7878`)
-3.  **Sonarr:** Automated TV show management (`Port 8989`)
-4.  **qBittorrent:** The extraction/download client (`Port 8080`)
-5.  **Prowlarr:** Unified indexer/search-engine brain (`Port 9696`)
-6.  **FlareSolverr:** Bypassing Cloudflare protections for search engines (`Port 8191`)
+## ⚙️ Storage Strategy
+This cluster uses a **Hardlink** strategy. The host directory `D:\PlexMedia` is mapped to `/data` in all containers, allowing for near-instant file moves and zero-copy library organization.
 
-## ⚡ Hardlink Storage Strategy
-Built for speed. By mapping the **absolute root** of your media drive to a unified `/data` directory in ALL containers, this cluster executes "Hardlinks" instead of "Copies". This means moving a 50GB file from your downloads to your Plex library happens in **0.1 seconds** and consumes **0 bytes** of extra disk space.
-
----
-*Maintained by Cmella3301*
+## ⚠️ Important Note on VPNs
+**Crucial:** If you have a system-wide VPN running on your Windows host, it may block the internal Docker DNS, leading to 'Host not found' errors for trackers. Ensure your host VPN is **OFF** when initiating new downloads, or configure a split-tunnel / internal Docker VPN.
