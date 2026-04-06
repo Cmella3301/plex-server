@@ -1850,3 +1850,1353 @@
 2026-04-06 09:16:35.4|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
 2026-04-06 09:16:35.4|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
 2026-04-06 09:16:35.4|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:18:04.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:18:04.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:18:04.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:18:04.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:18:04.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:18:04.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:18:05.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:18:05.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:18:05.0|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:18:05.0|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:18:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:18:05.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:18:05.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:18:05.0|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:18:05.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:18:05.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:18:05.0|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:18:05.1|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:18:05.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:18:05.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:18:05.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:18:05.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:18:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:18:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:18:05.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:18:05.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:18:05.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:18:05.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:18:05.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:18:05.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:18:05.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:18:05.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:18:05.2|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:18:05.3|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:18:05.3|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:18:05.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:18:05.3|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:18:05.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:18:05.3|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:18:05.3|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:18:05.3|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:18:05.3|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:18:05.3|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:18:05.3|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:18:05.4|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:18:05.4|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:18:05.4|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:18:05.4|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:18:05.4|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:19:04.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-06 09:19:22.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:19:22.4|Debug|Api|[GET] /api/v3/qualityProfile?apikey=(removed) 200.OK (24 ms)
+2026-04-06 09:19:34.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:19:35.0|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:19:35.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:19:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:19:35.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:19:35.0|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:19:35.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:19:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:19:35.0|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:19:35.0|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:19:35.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:19:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:19:35.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:19:35.1|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:19:35.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:19:35.1|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:19:35.1|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:19:35.2|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:19:35.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:19:35.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:19:35.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:19:35.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:19:35.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:19:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:19:35.3|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:19:35.3|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:19:35.3|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:19:35.3|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:19:35.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:19:35.3|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:19:35.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:19:35.3|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:19:35.3|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:19:35.4|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:19:35.4|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:19:35.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:19:35.4|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:19:35.4|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:19:35.4|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:19:35.4|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:19:35.4|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:19:35.4|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:19:35.5|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:19:35.5|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:19:35.5|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:19:35.5|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:19:35.5|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:19:35.5|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:19:35.5|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:19:37.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:19:37.8|Debug|Api|[GET] /api/v3/system/status?apikey=(removed) 200.OK (9 ms)
+2026-04-06 09:19:37.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:19:37.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:19:37.8|Debug|Api|[GET] /api/v3/qualityProfile?apikey=(removed) 200.OK (8 ms)
+2026-04-06 09:19:37.9|Debug|RootFolderService|Generating list of unmapped folders
+2026-04-06 09:19:37.9|Debug|RootFolderService|0 unmapped folders detected.
+2026-04-06 09:19:37.9|Debug|Api|[GET] /api/v3/rootfolder?apikey=(removed) 200.OK (30 ms)
+2026-04-06 09:19:37.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:19:37.9|Debug|Api|[GET] /api/v3/tag?apikey=(removed) 200.OK (5 ms)
+2026-04-06 09:21:04.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 09:21:05.0|Debug|FetchAndParseRssService|Available indexers 2
+2026-04-06 09:21:05.0|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:21:05.0|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000&extended=1&apikey=(removed)&offset=0&limit=100
+2026-04-06 09:21:05.0|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:21:05.0|Debug|Torznab|Downloading Feed http://prowlarr:9696/3/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2026-04-06 09:21:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:05.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:21:05.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:21:05.0|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:21:05.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:21:05.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:21:05.0|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:21:05.0|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:21:05.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:05.1|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:21:05.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:05.1|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:21:05.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:21:05.1|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:21:05.1|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:21:05.2|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:21:05.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:21:05.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:21:05.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:05.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:21:05.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:05.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:21:05.2|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:21:05.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:21:05.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:21:05.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:21:05.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:05.3|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:21:05.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:05.3|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:21:05.3|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:21:05.3|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:21:05.3|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:21:05.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:05.3|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:21:05.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:05.3|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:21:05.4|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:21:05.4|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:21:05.4|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:21:05.4|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:21:05.4|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:21:05.4|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:21:05.4|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:21:05.4|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:21:05.4|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:21:05.5|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:21:15.4|Debug|FetchAndParseRssService|Found 120 reports
+2026-04-06 09:21:15.5|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 09:21:15.5|Debug|DownloadDecisionMaker|Processing release 'Betrayal Secrets Lies S01E01 Fertility Fraud 1080p DSNP WEB-DL AAC2 0 H 264-playWEB' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.5|Debug|Parser|Parsing string 'Betrayal Secrets Lies S01E01 Fertility Fraud 1080p DSNP WEB-DL AAC2 0 H 264-playWEB'
+2026-04-06 09:21:15.5|Debug|Parser|Episode Parsed. Betrayal Secrets Lies - S01E01 
+2026-04-06 09:21:15.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.5|Debug|QualityParser|Trying to parse quality for 'Betrayal Secrets Lies S01E01 Fertility Fraud 1080p DSNP WEB-DL AAC2 0 H 264-playWEB'
+2026-04-06 09:21:15.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:15.5|Debug|Parser|Release Group parsed: playWEB
+2026-04-06 09:21:15.5|Debug|ParsingService|No matching series Betrayal Secrets Lies
+2026-04-06 09:21:15.5|Debug|DownloadDecisionMaker|Release 'Betrayal Secrets Lies S01E01 Fertility Fraud 1080p DSNP WEB-DL AAC2 0 H 264-playWEB' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:15.5|Debug|DownloadDecisionMaker|Processing release 'Betrayal Secrets Lies S01E02 Abuse Alimony 1080p DSNP WEB-DL AAC2 0 H 264-playWEB' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.5|Debug|Parser|Parsing string 'Betrayal Secrets Lies S01E02 Abuse Alimony 1080p DSNP WEB-DL AAC2 0 H 264-playWEB'
+2026-04-06 09:21:15.6|Debug|Parser|Episode Parsed. Betrayal Secrets Lies - S01E02 
+2026-04-06 09:21:15.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.6|Debug|QualityParser|Trying to parse quality for 'Betrayal Secrets Lies S01E02 Abuse Alimony 1080p DSNP WEB-DL AAC2 0 H 264-playWEB'
+2026-04-06 09:21:15.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:15.6|Debug|Parser|Release Group parsed: playWEB
+2026-04-06 09:21:15.6|Debug|ParsingService|No matching series Betrayal Secrets Lies
+2026-04-06 09:21:15.6|Debug|DownloadDecisionMaker|Release 'Betrayal Secrets Lies S01E02 Abuse Alimony 1080p DSNP WEB-DL AAC2 0 H 264-playWEB' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:15.6|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Atlanta S17E01 A Warm Welcome 1080p PCOK WEB-DL AAC2 0 H 264-WhiteHat' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.6|Debug|Parser|Parsing string 'The Real Housewives of Atlanta S17E01 A Warm Welcome 1080p PCOK WEB-DL AAC2 0 H 264-WhiteHat'
+2026-04-06 09:21:15.6|Debug|Parser|Episode Parsed. The Real Housewives of Atlanta - S17E01 
+2026-04-06 09:21:15.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.7|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Atlanta S17E01 A Warm Welcome 1080p PCOK WEB-DL AAC2 0 H 264-WhiteHat'
+2026-04-06 09:21:15.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:15.7|Debug|Parser|Release Group parsed: WhiteHat
+2026-04-06 09:21:15.7|Debug|ParsingService|No matching series The Real Housewives of Atlanta
+2026-04-06 09:21:15.7|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Atlanta S17E01 A Warm Welcome 1080p PCOK WEB-DL AAC2 0 H 264-WhiteHat' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:15.7|Debug|DownloadDecisionMaker|Processing release 'Betrayal Secrets And Lies S01E02 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.7|Debug|Parser|Parsing string 'Betrayal Secrets And Lies S01E02 720p WEB H264-JFF'
+2026-04-06 09:21:15.7|Debug|Parser|Episode Parsed. Betrayal Secrets And Lies - S01E02 
+2026-04-06 09:21:15.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.7|Debug|QualityParser|Trying to parse quality for 'Betrayal Secrets And Lies S01E02 720p WEB H264-JFF'
+2026-04-06 09:21:15.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:15.8|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:15.8|Debug|ParsingService|No matching series Betrayal Secrets And Lies
+2026-04-06 09:21:15.8|Debug|DownloadDecisionMaker|Release 'Betrayal Secrets And Lies S01E02 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:15.8|Debug|DownloadDecisionMaker|Processing release 'American Pickers S27E20 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.8|Debug|Parser|Parsing string 'American Pickers S27E20 720p WEB H264-JFF'
+2026-04-06 09:21:15.8|Debug|Parser|Episode Parsed. American Pickers - S27E20 
+2026-04-06 09:21:15.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.8|Debug|QualityParser|Trying to parse quality for 'American Pickers S27E20 720p WEB H264-JFF'
+2026-04-06 09:21:15.8|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:15.8|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:15.8|Debug|ParsingService|No matching series American Pickers
+2026-04-06 09:21:15.8|Debug|DownloadDecisionMaker|Release 'American Pickers S27E20 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:15.9|Debug|DownloadDecisionMaker|Processing release 'Married At First Sight AU S13E36 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.9|Debug|Parser|Parsing string 'Married At First Sight AU S13E36 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:15.9|Debug|Parser|Episode Parsed. Married At First Sight AU - S13E36 
+2026-04-06 09:21:15.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.9|Debug|QualityParser|Trying to parse quality for 'Married At First Sight AU S13E36 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:15.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:15.9|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:15.9|Debug|ParsingService|No matching series Married At First Sight AU
+2026-04-06 09:21:15.9|Debug|DownloadDecisionMaker|Release 'Married At First Sight AU S13E36 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:15.9|Debug|DownloadDecisionMaker|Processing release 'Married At First Sight AU S13E36 1080p HDTV H264-FERENGI' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:15.9|Debug|Parser|Parsing string 'Married At First Sight AU S13E36 1080p HDTV H264-FERENGI'
+2026-04-06 09:21:15.9|Debug|Parser|Episode Parsed. Married At First Sight AU - S13E36 
+2026-04-06 09:21:15.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:15.9|Debug|QualityParser|Trying to parse quality for 'Married At First Sight AU S13E36 1080p HDTV H264-FERENGI'
+2026-04-06 09:21:16.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:16.0|Debug|Parser|Release Group parsed: FERENGI
+2026-04-06 09:21:16.0|Debug|ParsingService|No matching series Married At First Sight AU
+2026-04-06 09:21:16.0|Debug|DownloadDecisionMaker|Release 'Married At First Sight AU S13E36 1080p HDTV H264-FERENGI' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.0|Debug|DownloadDecisionMaker|Processing release 'Married At First Sight AU S13E36 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.0|Debug|Parser|Parsing string 'Married At First Sight AU S13E36 480p x264-mSD'
+2026-04-06 09:21:16.0|Debug|Parser|Episode Parsed. Married At First Sight AU - S13E36 
+2026-04-06 09:21:16.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.0|Debug|QualityParser|Trying to parse quality for 'Married At First Sight AU S13E36 480p x264-mSD'
+2026-04-06 09:21:16.0|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:16.0|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:16.0|Debug|ParsingService|No matching series Married At First Sight AU
+2026-04-06 09:21:16.0|Debug|DownloadDecisionMaker|Release 'Married At First Sight AU S13E36 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.1|Debug|DownloadDecisionMaker|Processing release 'Married At First Sight AU S13E36 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.1|Debug|Parser|Parsing string 'Married At First Sight AU S13E36 XviD-AFG'
+2026-04-06 09:21:16.1|Debug|Parser|Episode Parsed. Married At First Sight AU - S13E36 
+2026-04-06 09:21:16.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.1|Debug|QualityParser|Trying to parse quality for 'Married At First Sight AU S13E36 XviD-AFG'
+2026-04-06 09:21:16.1|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:16.1|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:16.1|Debug|ParsingService|No matching series Married At First Sight AU
+2026-04-06 09:21:16.1|Debug|DownloadDecisionMaker|Release 'Married At First Sight AU S13E36 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.1|Debug|DownloadDecisionMaker|Processing release 'Married At First Sight AU S13E36 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.1|Debug|Parser|Parsing string 'Married At First Sight AU S13E36 720p HEVC x265-MeGusta'
+2026-04-06 09:21:16.1|Debug|Parser|Episode Parsed. Married At First Sight AU - S13E36 
+2026-04-06 09:21:16.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.2|Debug|QualityParser|Trying to parse quality for 'Married At First Sight AU S13E36 720p HEVC x265-MeGusta'
+2026-04-06 09:21:16.2|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:16.2|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:16.2|Debug|ParsingService|No matching series Married At First Sight AU
+2026-04-06 09:21:16.2|Debug|DownloadDecisionMaker|Release 'Married At First Sight AU S13E36 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.2|Debug|DownloadDecisionMaker|Processing release 'Married At First Sight AU S13E36 720p HDTV x264-ORENJI' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.2|Debug|Parser|Parsing string 'Married At First Sight AU S13E36 720p HDTV x264-ORENJI'
+2026-04-06 09:21:16.2|Debug|Parser|Episode Parsed. Married At First Sight AU - S13E36 
+2026-04-06 09:21:16.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.2|Debug|QualityParser|Trying to parse quality for 'Married At First Sight AU S13E36 720p HDTV x264-ORENJI'
+2026-04-06 09:21:16.2|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:16.2|Debug|Parser|Release Group parsed: ORENJI
+2026-04-06 09:21:16.2|Debug|ParsingService|No matching series Married At First Sight AU
+2026-04-06 09:21:16.3|Debug|DownloadDecisionMaker|Release 'Married At First Sight AU S13E36 720p HDTV x264-ORENJI' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.3|Debug|DownloadDecisionMaker|Processing release 'American Pickers S27E20 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.3|Debug|Parser|Parsing string 'American Pickers S27E20 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:16.3|Debug|Parser|Episode Parsed. American Pickers - S27E20 
+2026-04-06 09:21:16.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.3|Debug|QualityParser|Trying to parse quality for 'American Pickers S27E20 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:16.3|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:16.3|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:16.3|Debug|ParsingService|No matching series American Pickers
+2026-04-06 09:21:16.3|Debug|DownloadDecisionMaker|Release 'American Pickers S27E20 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.3|Debug|DownloadDecisionMaker|Processing release 'American Pickers S27E20 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.3|Debug|Parser|Parsing string 'American Pickers S27E20 XviD-AFG'
+2026-04-06 09:21:16.3|Debug|Parser|Episode Parsed. American Pickers - S27E20 
+2026-04-06 09:21:16.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.4|Debug|QualityParser|Trying to parse quality for 'American Pickers S27E20 XviD-AFG'
+2026-04-06 09:21:16.4|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:16.4|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:16.4|Debug|ParsingService|No matching series American Pickers
+2026-04-06 09:21:16.4|Debug|DownloadDecisionMaker|Release 'American Pickers S27E20 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.4|Debug|DownloadDecisionMaker|Processing release 'American Pickers S27E20 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.4|Debug|Parser|Parsing string 'American Pickers S27E20 480p x264-mSD'
+2026-04-06 09:21:16.4|Debug|Parser|Episode Parsed. American Pickers - S27E20 
+2026-04-06 09:21:16.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.4|Debug|QualityParser|Trying to parse quality for 'American Pickers S27E20 480p x264-mSD'
+2026-04-06 09:21:16.4|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:16.4|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:16.4|Debug|ParsingService|No matching series American Pickers
+2026-04-06 09:21:16.4|Debug|DownloadDecisionMaker|Release 'American Pickers S27E20 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.4|Debug|DownloadDecisionMaker|Processing release 'American Pickers S27E20 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.4|Debug|Parser|Parsing string 'American Pickers S27E20 720p HEVC x265-MeGusta'
+2026-04-06 09:21:16.5|Debug|Parser|Episode Parsed. American Pickers - S27E20 
+2026-04-06 09:21:16.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.5|Debug|QualityParser|Trying to parse quality for 'American Pickers S27E20 720p HEVC x265-MeGusta'
+2026-04-06 09:21:16.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:16.5|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:16.5|Debug|ParsingService|No matching series American Pickers
+2026-04-06 09:21:16.5|Debug|DownloadDecisionMaker|Release 'American Pickers S27E20 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.5|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E06 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.5|Debug|Parser|Parsing string 'The Faithful S01E06 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:16.5|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:16.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.6|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E06 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:16.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:16.6|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:16.6|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:16.6|Debug|DownloadDecisionMaker|Release 'The Faithful S01E06 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.6|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E05 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.6|Debug|Parser|Parsing string 'The Faithful S01E05 XviD-AFG'
+2026-04-06 09:21:16.6|Debug|Parser|Episode Parsed. The Faithful - S01E05 
+2026-04-06 09:21:16.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.6|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E05 XviD-AFG'
+2026-04-06 09:21:16.6|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:16.6|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:16.7|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:16.7|Debug|DownloadDecisionMaker|Release 'The Faithful S01E05 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.7|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E06 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.7|Debug|Parser|Parsing string 'The Faithful S01E06 480p x264-mSD'
+2026-04-06 09:21:16.7|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:16.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.7|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E06 480p x264-mSD'
+2026-04-06 09:21:16.7|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:16.7|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:16.7|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:16.7|Debug|DownloadDecisionMaker|Release 'The Faithful S01E06 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.8|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives Of Rhode Island S01E02 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.8|Debug|Parser|Parsing string 'The Real Housewives Of Rhode Island S01E02 720p WEB H264-JFF'
+2026-04-06 09:21:16.8|Debug|Parser|Episode Parsed. The Real Housewives Of Rhode Island - S01E02 
+2026-04-06 09:21:16.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.8|Debug|QualityParser|Trying to parse quality for 'The Real Housewives Of Rhode Island S01E02 720p WEB H264-JFF'
+2026-04-06 09:21:16.8|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:16.8|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:16.8|Debug|ParsingService|No matching series The Real Housewives Of Rhode Island
+2026-04-06 09:21:16.8|Debug|DownloadDecisionMaker|Release 'The Real Housewives Of Rhode Island S01E02 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.8|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E06 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.8|Debug|Parser|Parsing string 'The Faithful S01E06 XviD-AFG'
+2026-04-06 09:21:16.8|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:16.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.8|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E06 XviD-AFG'
+2026-04-06 09:21:16.8|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:16.9|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:16.9|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:16.9|Debug|DownloadDecisionMaker|Release 'The Faithful S01E06 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.9|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E06 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.9|Debug|Parser|Parsing string 'The Faithful S01E06 720p HEVC x265-MeGusta'
+2026-04-06 09:21:16.9|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:16.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.9|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E06 720p HEVC x265-MeGusta'
+2026-04-06 09:21:16.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:16.9|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:16.9|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:16.9|Debug|DownloadDecisionMaker|Release 'The Faithful S01E06 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.9|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E05 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:16.9|Debug|Parser|Parsing string 'The Faithful S01E05 480p x264-mSD'
+2026-04-06 09:21:16.9|Debug|Parser|Episode Parsed. The Faithful - S01E05 
+2026-04-06 09:21:16.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:16.9|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E05 480p x264-mSD'
+2026-04-06 09:21:16.9|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:16.9|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:16.9|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:16.9|Debug|DownloadDecisionMaker|Release 'The Faithful S01E05 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:16.9|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E05 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.0|Debug|Parser|Parsing string 'The Faithful S01E05 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.0|Debug|Parser|Episode Parsed. The Faithful - S01E05 
+2026-04-06 09:21:17.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.0|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E05 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:17.0|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:17.0|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:17.0|Debug|DownloadDecisionMaker|Release 'The Faithful S01E05 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.0|Debug|DownloadDecisionMaker|Processing release 'Sullivans Crossing S04E03 Northern Lights 720p AMZN WEB-DL DDP5 1 H 264-RAWR' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.0|Debug|Parser|Parsing string 'Sullivans Crossing S04E03 Northern Lights 720p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.0|Debug|Parser|Episode Parsed. Sullivans Crossing - S04E03 
+2026-04-06 09:21:17.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.0|Debug|QualityParser|Trying to parse quality for 'Sullivans Crossing S04E03 Northern Lights 720p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:17.0|Debug|Parser|Release Group parsed: RAWR
+2026-04-06 09:21:17.1|Debug|Parser|Parsing string 'Sullivans Crossing S04E03 Northern Lights 720p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.1|Debug|SceneMappingService|Found scene mapping for: Sullivans Crossing. TVDB ID for mapping: 420865
+2026-04-06 09:21:17.1|Debug|ParsingService|No matching series Sullivans Crossing
+2026-04-06 09:21:17.1|Debug|Parser|Parsing string 'Sullivans Crossing S04E03 Northern Lights 720p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.1|Debug|SceneMappingService|Found scene mapping for: Sullivans Crossing. TVDB ID for mapping: 420865
+2026-04-06 09:21:17.1|Debug|DownloadDecisionMaker|Release 'Sullivans Crossing S04E03 Northern Lights 720p AMZN WEB-DL DDP5 1 H 264-RAWR' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Sullivans Crossing matches an alias for series with TVDB ID: 420865
+2026-04-06 09:21:17.1|Debug|DownloadDecisionMaker|Processing release 'Sullivans Crossing S04E03 Northern Lights 1080p AMZN WEB-DL DDP5 1 H 264-RAWR' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.1|Debug|Parser|Parsing string 'Sullivans Crossing S04E03 Northern Lights 1080p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.1|Debug|Parser|Episode Parsed. Sullivans Crossing - S04E03 
+2026-04-06 09:21:17.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.2|Debug|QualityParser|Trying to parse quality for 'Sullivans Crossing S04E03 Northern Lights 1080p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:17.2|Debug|Parser|Release Group parsed: RAWR
+2026-04-06 09:21:17.2|Debug|Parser|Parsing string 'Sullivans Crossing S04E03 Northern Lights 1080p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.2|Debug|SceneMappingService|Found scene mapping for: Sullivans Crossing. TVDB ID for mapping: 420865
+2026-04-06 09:21:17.2|Debug|ParsingService|No matching series Sullivans Crossing
+2026-04-06 09:21:17.2|Debug|Parser|Parsing string 'Sullivans Crossing S04E03 Northern Lights 1080p AMZN WEB-DL DDP5 1 H 264-RAWR'
+2026-04-06 09:21:17.2|Debug|SceneMappingService|Found scene mapping for: Sullivans Crossing. TVDB ID for mapping: 420865
+2026-04-06 09:21:17.2|Debug|DownloadDecisionMaker|Release 'Sullivans Crossing S04E03 Northern Lights 1080p AMZN WEB-DL DDP5 1 H 264-RAWR' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Sullivans Crossing matches an alias for series with TVDB ID: 420865
+2026-04-06 09:21:17.2|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Rhode Island S01E02 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.2|Debug|Parser|Parsing string 'The Real Housewives of Rhode Island S01E02 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:17.3|Debug|Parser|Episode Parsed. The Real Housewives of Rhode Island - S01E02 
+2026-04-06 09:21:17.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.3|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Rhode Island S01E02 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:17.3|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:17.3|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:17.3|Debug|ParsingService|No matching series The Real Housewives of Rhode Island
+2026-04-06 09:21:17.3|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Rhode Island S01E02 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.3|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Rhode Island S01E02 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.3|Debug|Parser|Parsing string 'The Real Housewives of Rhode Island S01E02 XviD-AFG'
+2026-04-06 09:21:17.3|Debug|Parser|Episode Parsed. The Real Housewives of Rhode Island - S01E02 
+2026-04-06 09:21:17.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.3|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Rhode Island S01E02 XviD-AFG'
+2026-04-06 09:21:17.3|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:17.3|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:17.3|Debug|ParsingService|No matching series The Real Housewives of Rhode Island
+2026-04-06 09:21:17.4|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Rhode Island S01E02 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.4|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Rhode Island S01E02 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.4|Debug|Parser|Parsing string 'The Real Housewives of Rhode Island S01E02 480p x264-mSD'
+2026-04-06 09:21:17.4|Debug|Parser|Episode Parsed. The Real Housewives of Rhode Island - S01E02 
+2026-04-06 09:21:17.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.4|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Rhode Island S01E02 480p x264-mSD'
+2026-04-06 09:21:17.4|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:17.4|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:17.4|Debug|ParsingService|No matching series The Real Housewives of Rhode Island
+2026-04-06 09:21:17.4|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Rhode Island S01E02 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.4|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Rhode Island S01E02 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.4|Debug|Parser|Parsing string 'The Real Housewives of Rhode Island S01E02 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.4|Debug|Parser|Episode Parsed. The Real Housewives of Rhode Island - S01E02 
+2026-04-06 09:21:17.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.4|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Rhode Island S01E02 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:17.4|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:17.4|Debug|ParsingService|No matching series The Real Housewives of Rhode Island
+2026-04-06 09:21:17.4|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Rhode Island S01E02 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.4|Debug|DownloadDecisionMaker|Processing release 'The Real Housewives of Rhode Island S01E02 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.4|Debug|Parser|Parsing string 'The Real Housewives of Rhode Island S01E02 1080p WEB h264-EDITH'
+2026-04-06 09:21:17.4|Debug|Parser|Episode Parsed. The Real Housewives of Rhode Island - S01E02 
+2026-04-06 09:21:17.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.5|Debug|QualityParser|Trying to parse quality for 'The Real Housewives of Rhode Island S01E02 1080p WEB h264-EDITH'
+2026-04-06 09:21:17.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:17.5|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:17.5|Debug|ParsingService|No matching series The Real Housewives of Rhode Island
+2026-04-06 09:21:17.5|Debug|DownloadDecisionMaker|Release 'The Real Housewives of Rhode Island S01E02 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.5|Debug|DownloadDecisionMaker|Processing release 'Americas Funniest Home Videos S36E16 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.5|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 XviD-AFG'
+2026-04-06 09:21:17.5|Debug|Parser|Episode Parsed. Americas Funniest Home Videos - S36E16 
+2026-04-06 09:21:17.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.5|Debug|QualityParser|Trying to parse quality for 'Americas Funniest Home Videos S36E16 XviD-AFG'
+2026-04-06 09:21:17.5|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:17.5|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:17.6|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 XviD-AFG'
+2026-04-06 09:21:17.6|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.6|Debug|ParsingService|No matching series Americas Funniest Home Videos
+2026-04-06 09:21:17.6|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 XviD-AFG'
+2026-04-06 09:21:17.6|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.6|Debug|DownloadDecisionMaker|Release 'Americas Funniest Home Videos S36E16 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Americas Funniest Home Videos matches an alias for series with TVDB ID: 76235
+2026-04-06 09:21:17.6|Debug|DownloadDecisionMaker|Processing release 'Americas Funniest Home Videos S36E16 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.6|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.6|Debug|Parser|Episode Parsed. Americas Funniest Home Videos - S36E16 
+2026-04-06 09:21:17.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.6|Debug|QualityParser|Trying to parse quality for 'Americas Funniest Home Videos S36E16 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:17.6|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:17.6|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.6|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.6|Debug|ParsingService|No matching series Americas Funniest Home Videos
+2026-04-06 09:21:17.6|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 720p HEVC x265-MeGusta'
+2026-04-06 09:21:17.7|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.7|Debug|DownloadDecisionMaker|Release 'Americas Funniest Home Videos S36E16 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Americas Funniest Home Videos matches an alias for series with TVDB ID: 76235
+2026-04-06 09:21:17.7|Debug|DownloadDecisionMaker|Processing release 'Americas Funniest Home Videos S36E16 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.7|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 480p x264-mSD'
+2026-04-06 09:21:17.7|Debug|Parser|Episode Parsed. Americas Funniest Home Videos - S36E16 
+2026-04-06 09:21:17.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.7|Debug|QualityParser|Trying to parse quality for 'Americas Funniest Home Videos S36E16 480p x264-mSD'
+2026-04-06 09:21:17.7|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:17.7|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:17.7|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 480p x264-mSD'
+2026-04-06 09:21:17.7|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.7|Debug|ParsingService|No matching series Americas Funniest Home Videos
+2026-04-06 09:21:17.7|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 480p x264-mSD'
+2026-04-06 09:21:17.7|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.7|Debug|DownloadDecisionMaker|Release 'Americas Funniest Home Videos S36E16 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Americas Funniest Home Videos matches an alias for series with TVDB ID: 76235
+2026-04-06 09:21:17.7|Debug|DownloadDecisionMaker|Processing release 'Betrayal Secrets and Lies S01E02 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.7|Debug|Parser|Parsing string 'Betrayal Secrets and Lies S01E02 1080p WEB h264-EDITH'
+2026-04-06 09:21:17.7|Debug|Parser|Episode Parsed. Betrayal Secrets and Lies - S01E02 
+2026-04-06 09:21:17.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.8|Debug|QualityParser|Trying to parse quality for 'Betrayal Secrets and Lies S01E02 1080p WEB h264-EDITH'
+2026-04-06 09:21:17.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:17.8|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:17.8|Debug|ParsingService|No matching series Betrayal Secrets and Lies
+2026-04-06 09:21:17.8|Debug|DownloadDecisionMaker|Release 'Betrayal Secrets and Lies S01E02 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.8|Debug|DownloadDecisionMaker|Processing release 'Americas Funniest Home Videos S36E16 720p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.8|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 720p WEB h264-EDITH'
+2026-04-06 09:21:17.8|Debug|Parser|Episode Parsed. Americas Funniest Home Videos - S36E16 
+2026-04-06 09:21:17.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.8|Debug|QualityParser|Trying to parse quality for 'Americas Funniest Home Videos S36E16 720p WEB h264-EDITH'
+2026-04-06 09:21:17.8|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:17.8|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:17.8|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 720p WEB h264-EDITH'
+2026-04-06 09:21:17.8|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.8|Debug|ParsingService|No matching series Americas Funniest Home Videos
+2026-04-06 09:21:17.8|Debug|Parser|Parsing string 'Americas Funniest Home Videos S36E16 720p WEB h264-EDITH'
+2026-04-06 09:21:17.8|Debug|SceneMappingService|Found scene mapping for: Americas Funniest Home Videos. TVDB ID for mapping: 76235
+2026-04-06 09:21:17.8|Debug|DownloadDecisionMaker|Release 'Americas Funniest Home Videos S36E16 720p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Americas Funniest Home Videos matches an alias for series with TVDB ID: 76235
+2026-04-06 09:21:17.8|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E06 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.8|Debug|Parser|Parsing string 'The Faithful S01E06 720p WEB H264-JFF'
+2026-04-06 09:21:17.8|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:17.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.9|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E06 720p WEB H264-JFF'
+2026-04-06 09:21:17.9|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:17.9|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:17.9|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:17.9|Debug|DownloadDecisionMaker|Release 'The Faithful S01E06 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:17.9|Debug|DownloadDecisionMaker|Processing release '90 Day Fiance Before The 90 Days S08E17 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:17.9|Debug|Parser|Parsing string '90 Day Fiance Before The 90 Days S08E17 720p WEB H264-JFF'
+2026-04-06 09:21:17.9|Debug|Parser|Episode Parsed. 90 Day Fiance Before The 90 Days - S08E17 
+2026-04-06 09:21:17.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:17.9|Debug|QualityParser|Trying to parse quality for '90 Day Fiance Before The 90 Days S08E17 720p WEB H264-JFF'
+2026-04-06 09:21:17.9|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:17.9|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:17.9|Debug|Parser|Parsing string '90 Day Fiance Before The 90 Days S08E17 720p WEB H264-JFF'
+2026-04-06 09:21:17.9|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before The 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:17.9|Debug|ParsingService|No matching series 90 Day Fiance Before The 90 Days
+2026-04-06 09:21:17.9|Debug|Parser|Parsing string '90 Day Fiance Before The 90 Days S08E17 720p WEB H264-JFF'
+2026-04-06 09:21:17.9|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before The 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:17.9|Debug|DownloadDecisionMaker|Release '90 Day Fiance Before The 90 Days S08E17 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] 90 Day Fiance Before The 90 Days matches an alias for series with TVDB ID: 332747
+2026-04-06 09:21:17.9|Debug|DownloadDecisionMaker|Processing release 'Property Brothers Under Pressure S01E04 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.0|Debug|Parser|Parsing string 'Property Brothers Under Pressure S01E04 720p WEB H264-JFF'
+2026-04-06 09:21:18.0|Debug|Parser|Episode Parsed. Property Brothers Under Pressure - S01E04 
+2026-04-06 09:21:18.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.0|Debug|QualityParser|Trying to parse quality for 'Property Brothers Under Pressure S01E04 720p WEB H264-JFF'
+2026-04-06 09:21:18.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:18.0|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:18.0|Debug|ParsingService|No matching series Property Brothers Under Pressure
+2026-04-06 09:21:18.0|Debug|DownloadDecisionMaker|Release 'Property Brothers Under Pressure S01E04 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.0|Debug|DownloadDecisionMaker|Processing release 'Historys Greatest Picks With Mike Wolfe S01E07 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.0|Debug|Parser|Parsing string 'Historys Greatest Picks With Mike Wolfe S01E07 720p WEB H264-JFF'
+2026-04-06 09:21:18.0|Debug|Parser|Episode Parsed. Historys Greatest Picks With Mike Wolfe - S01E07 
+2026-04-06 09:21:18.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.0|Debug|QualityParser|Trying to parse quality for 'Historys Greatest Picks With Mike Wolfe S01E07 720p WEB H264-JFF'
+2026-04-06 09:21:18.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:18.0|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:18.0|Debug|ParsingService|No matching series Historys Greatest Picks With Mike Wolfe
+2026-04-06 09:21:18.0|Debug|DownloadDecisionMaker|Release 'Historys Greatest Picks With Mike Wolfe S01E07 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.1|Debug|DownloadDecisionMaker|Processing release 'Tribunal Justice S03E26 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.1|Debug|Parser|Parsing string 'Tribunal Justice S03E26 720p WEB H264-JFF'
+2026-04-06 09:21:18.1|Debug|Parser|Episode Parsed. Tribunal Justice - S03E26 
+2026-04-06 09:21:18.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.1|Debug|QualityParser|Trying to parse quality for 'Tribunal Justice S03E26 720p WEB H264-JFF'
+2026-04-06 09:21:18.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:18.1|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:18.1|Debug|ParsingService|No matching series Tribunal Justice
+2026-04-06 09:21:18.1|Debug|DownloadDecisionMaker|Release 'Tribunal Justice S03E26 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.1|Debug|DownloadDecisionMaker|Processing release 'Property Brothers Under Pressure S01E04 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.1|Debug|Parser|Parsing string 'Property Brothers Under Pressure S01E04 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:18.1|Debug|Parser|Episode Parsed. Property Brothers Under Pressure - S01E04 
+2026-04-06 09:21:18.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.1|Debug|QualityParser|Trying to parse quality for 'Property Brothers Under Pressure S01E04 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:18.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:18.1|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:18.1|Debug|ParsingService|No matching series Property Brothers Under Pressure
+2026-04-06 09:21:18.1|Debug|DownloadDecisionMaker|Release 'Property Brothers Under Pressure S01E04 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.1|Debug|DownloadDecisionMaker|Processing release '90 Day Fiance Before the 90 Days S08E17 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.1|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:18.1|Debug|Parser|Episode Parsed. 90 Day Fiance Before the 90 Days - S08E17 
+2026-04-06 09:21:18.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.2|Debug|QualityParser|Trying to parse quality for '90 Day Fiance Before the 90 Days S08E17 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:18.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:18.2|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:18.2|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:18.2|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.2|Debug|ParsingService|No matching series 90 Day Fiance Before the 90 Days
+2026-04-06 09:21:18.2|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:18.2|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.2|Debug|DownloadDecisionMaker|Release '90 Day Fiance Before the 90 Days S08E17 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] 90 Day Fiance Before the 90 Days matches an alias for series with TVDB ID: 332747
+2026-04-06 09:21:18.2|Debug|DownloadDecisionMaker|Processing release '90 Day Fiance Before the 90 Days S08E17 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.2|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 XviD-AFG'
+2026-04-06 09:21:18.2|Debug|Parser|Episode Parsed. 90 Day Fiance Before the 90 Days - S08E17 
+2026-04-06 09:21:18.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.2|Debug|QualityParser|Trying to parse quality for '90 Day Fiance Before the 90 Days S08E17 XviD-AFG'
+2026-04-06 09:21:18.2|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:18.2|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:18.2|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 XviD-AFG'
+2026-04-06 09:21:18.2|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.3|Debug|ParsingService|No matching series 90 Day Fiance Before the 90 Days
+2026-04-06 09:21:18.3|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 XviD-AFG'
+2026-04-06 09:21:18.3|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.3|Debug|DownloadDecisionMaker|Release '90 Day Fiance Before the 90 Days S08E17 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] 90 Day Fiance Before the 90 Days matches an alias for series with TVDB ID: 332747
+2026-04-06 09:21:18.3|Debug|DownloadDecisionMaker|Processing release 'Property Brothers Under Pressure S01E04 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.3|Debug|Parser|Parsing string 'Property Brothers Under Pressure S01E04 XviD-AFG'
+2026-04-06 09:21:18.3|Debug|Parser|Episode Parsed. Property Brothers Under Pressure - S01E04 
+2026-04-06 09:21:18.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.3|Debug|QualityParser|Trying to parse quality for 'Property Brothers Under Pressure S01E04 XviD-AFG'
+2026-04-06 09:21:18.3|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:18.3|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:18.3|Debug|ParsingService|No matching series Property Brothers Under Pressure
+2026-04-06 09:21:18.3|Debug|DownloadDecisionMaker|Release 'Property Brothers Under Pressure S01E04 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.3|Debug|DownloadDecisionMaker|Processing release 'Judy Justice S04E56 720p WEB H264-JFF' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.3|Debug|Parser|Parsing string 'Judy Justice S04E56 720p WEB H264-JFF'
+2026-04-06 09:21:18.3|Debug|Parser|Episode Parsed. Judy Justice - S04E56 
+2026-04-06 09:21:18.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.4|Debug|QualityParser|Trying to parse quality for 'Judy Justice S04E56 720p WEB H264-JFF'
+2026-04-06 09:21:18.4|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:18.4|Debug|Parser|Release Group parsed: JFF
+2026-04-06 09:21:18.4|Debug|ParsingService|No matching series Judy Justice
+2026-04-06 09:21:18.4|Debug|DownloadDecisionMaker|Release 'Judy Justice S04E56 720p WEB H264-JFF' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.4|Debug|DownloadDecisionMaker|Processing release 'Property Brothers Under Pressure S01E04 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.4|Debug|Parser|Parsing string 'Property Brothers Under Pressure S01E04 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.4|Debug|Parser|Episode Parsed. Property Brothers Under Pressure - S01E04 
+2026-04-06 09:21:18.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.4|Debug|QualityParser|Trying to parse quality for 'Property Brothers Under Pressure S01E04 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:18.4|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:18.4|Debug|ParsingService|No matching series Property Brothers Under Pressure
+2026-04-06 09:21:18.4|Debug|DownloadDecisionMaker|Release 'Property Brothers Under Pressure S01E04 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.4|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E05 1080p x265-ELiTE' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.4|Debug|Parser|Parsing string 'The Faithful S01E05 1080p x265-ELiTE'
+2026-04-06 09:21:18.4|Debug|Parser|Episode Parsed. The Faithful - S01E05 
+2026-04-06 09:21:18.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.4|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E05 1080p x265-ELiTE'
+2026-04-06 09:21:18.4|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:18.5|Debug|Parser|Release Group parsed: ELiTE
+2026-04-06 09:21:18.5|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:18.5|Debug|DownloadDecisionMaker|Release 'The Faithful S01E05 1080p x265-ELiTE' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.5|Debug|DownloadDecisionMaker|Processing release '90 Day Fiance Before the 90 Days S08E17 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.5|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 480p x264-mSD'
+2026-04-06 09:21:18.5|Debug|Parser|Episode Parsed. 90 Day Fiance Before the 90 Days - S08E17 
+2026-04-06 09:21:18.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.5|Debug|QualityParser|Trying to parse quality for '90 Day Fiance Before the 90 Days S08E17 480p x264-mSD'
+2026-04-06 09:21:18.5|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:18.6|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:18.6|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 480p x264-mSD'
+2026-04-06 09:21:18.6|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.6|Debug|ParsingService|No matching series 90 Day Fiance Before the 90 Days
+2026-04-06 09:21:18.6|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 480p x264-mSD'
+2026-04-06 09:21:18.6|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.6|Debug|DownloadDecisionMaker|Release '90 Day Fiance Before the 90 Days S08E17 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] 90 Day Fiance Before the 90 Days matches an alias for series with TVDB ID: 332747
+2026-04-06 09:21:18.6|Debug|DownloadDecisionMaker|Processing release '90 Day Fiance Before the 90 Days S08E17 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.6|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.6|Debug|Parser|Episode Parsed. 90 Day Fiance Before the 90 Days - S08E17 
+2026-04-06 09:21:18.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.6|Debug|QualityParser|Trying to parse quality for '90 Day Fiance Before the 90 Days S08E17 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:18.7|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:18.7|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.7|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.7|Debug|ParsingService|No matching series 90 Day Fiance Before the 90 Days
+2026-04-06 09:21:18.7|Debug|Parser|Parsing string '90 Day Fiance Before the 90 Days S08E17 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.7|Debug|SceneMappingService|Found scene mapping for: 90 Day Fiance Before the 90 Days. TVDB ID for mapping: 332747
+2026-04-06 09:21:18.8|Debug|DownloadDecisionMaker|Release '90 Day Fiance Before the 90 Days S08E17 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] 90 Day Fiance Before the 90 Days matches an alias for series with TVDB ID: 332747
+2026-04-06 09:21:18.8|Debug|DownloadDecisionMaker|Processing release 'Property Brothers Under Pressure S01E04 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.8|Debug|Parser|Parsing string 'Property Brothers Under Pressure S01E04 480p x264-mSD'
+2026-04-06 09:21:18.8|Debug|Parser|Episode Parsed. Property Brothers Under Pressure - S01E04 
+2026-04-06 09:21:18.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.8|Debug|QualityParser|Trying to parse quality for 'Property Brothers Under Pressure S01E04 480p x264-mSD'
+2026-04-06 09:21:18.8|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:18.8|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:18.8|Debug|ParsingService|No matching series Property Brothers Under Pressure
+2026-04-06 09:21:18.8|Debug|DownloadDecisionMaker|Release 'Property Brothers Under Pressure S01E04 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.8|Debug|DownloadDecisionMaker|Processing release 'Historys Greatest Picks with Mike Wolfe S01E07 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.8|Debug|Parser|Parsing string 'Historys Greatest Picks with Mike Wolfe S01E07 XviD-AFG'
+2026-04-06 09:21:18.8|Debug|Parser|Episode Parsed. Historys Greatest Picks with Mike Wolfe - S01E07 
+2026-04-06 09:21:18.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.9|Debug|QualityParser|Trying to parse quality for 'Historys Greatest Picks with Mike Wolfe S01E07 XviD-AFG'
+2026-04-06 09:21:18.9|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:18.9|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:18.9|Debug|ParsingService|No matching series Historys Greatest Picks with Mike Wolfe
+2026-04-06 09:21:18.9|Debug|DownloadDecisionMaker|Release 'Historys Greatest Picks with Mike Wolfe S01E07 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.9|Debug|DownloadDecisionMaker|Processing release 'Historys Greatest Picks with Mike Wolfe S01E07 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.9|Debug|Parser|Parsing string 'Historys Greatest Picks with Mike Wolfe S01E07 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.9|Debug|Parser|Episode Parsed. Historys Greatest Picks with Mike Wolfe - S01E07 
+2026-04-06 09:21:18.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:18.9|Debug|QualityParser|Trying to parse quality for 'Historys Greatest Picks with Mike Wolfe S01E07 720p HEVC x265-MeGusta'
+2026-04-06 09:21:18.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:18.9|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:18.9|Debug|ParsingService|No matching series Historys Greatest Picks with Mike Wolfe
+2026-04-06 09:21:18.9|Debug|DownloadDecisionMaker|Release 'Historys Greatest Picks with Mike Wolfe S01E07 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:18.9|Debug|DownloadDecisionMaker|Processing release 'Property Brothers Under Pressure S01E04 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:18.9|Debug|Parser|Parsing string 'Property Brothers Under Pressure S01E04 1080p WEB h264-EDITH'
+2026-04-06 09:21:18.9|Debug|Parser|Episode Parsed. Property Brothers Under Pressure - S01E04 
+2026-04-06 09:21:19.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.0|Debug|QualityParser|Trying to parse quality for 'Property Brothers Under Pressure S01E04 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.0|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:19.0|Debug|ParsingService|No matching series Property Brothers Under Pressure
+2026-04-06 09:21:19.0|Debug|DownloadDecisionMaker|Release 'Property Brothers Under Pressure S01E04 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.0|Debug|DownloadDecisionMaker|Processing release 'Tribunal Justice S03E26 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.0|Debug|Parser|Parsing string 'Tribunal Justice S03E26 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.0|Debug|Parser|Episode Parsed. Tribunal Justice - S03E26 
+2026-04-06 09:21:19.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.0|Debug|QualityParser|Trying to parse quality for 'Tribunal Justice S03E26 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:19.0|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:19.0|Debug|ParsingService|No matching series Tribunal Justice
+2026-04-06 09:21:19.0|Debug|DownloadDecisionMaker|Release 'Tribunal Justice S03E26 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.0|Debug|DownloadDecisionMaker|Processing release 'Tribunal Justice S03E26 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.0|Debug|Parser|Parsing string 'Tribunal Justice S03E26 XviD-AFG'
+2026-04-06 09:21:19.0|Debug|Parser|Episode Parsed. Tribunal Justice - S03E26 
+2026-04-06 09:21:19.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.0|Debug|QualityParser|Trying to parse quality for 'Tribunal Justice S03E26 XviD-AFG'
+2026-04-06 09:21:19.0|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:19.0|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:19.1|Debug|ParsingService|No matching series Tribunal Justice
+2026-04-06 09:21:19.1|Debug|DownloadDecisionMaker|Release 'Tribunal Justice S03E26 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.1|Debug|DownloadDecisionMaker|Processing release 'Tribunal Justice S03E26 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.1|Debug|Parser|Parsing string 'Tribunal Justice S03E26 720p HEVC x265-MeGusta'
+2026-04-06 09:21:19.1|Debug|Parser|Episode Parsed. Tribunal Justice - S03E26 
+2026-04-06 09:21:19.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.1|Debug|QualityParser|Trying to parse quality for 'Tribunal Justice S03E26 720p HEVC x265-MeGusta'
+2026-04-06 09:21:19.1|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:19.1|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:19.1|Debug|ParsingService|No matching series Tribunal Justice
+2026-04-06 09:21:19.1|Debug|DownloadDecisionMaker|Release 'Tribunal Justice S03E26 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.1|Debug|DownloadDecisionMaker|Processing release 'Historys Greatest Picks with Mike Wolfe S01E07 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.1|Debug|Parser|Parsing string 'Historys Greatest Picks with Mike Wolfe S01E07 480p x264-mSD'
+2026-04-06 09:21:19.1|Debug|Parser|Episode Parsed. Historys Greatest Picks with Mike Wolfe - S01E07 
+2026-04-06 09:21:19.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.1|Debug|QualityParser|Trying to parse quality for 'Historys Greatest Picks with Mike Wolfe S01E07 480p x264-mSD'
+2026-04-06 09:21:19.1|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:19.1|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:19.1|Debug|ParsingService|No matching series Historys Greatest Picks with Mike Wolfe
+2026-04-06 09:21:19.1|Debug|DownloadDecisionMaker|Release 'Historys Greatest Picks with Mike Wolfe S01E07 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.1|Debug|DownloadDecisionMaker|Processing release 'Tribunal Justice S03E26 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.1|Debug|Parser|Parsing string 'Tribunal Justice S03E26 480p x264-mSD'
+2026-04-06 09:21:19.1|Debug|Parser|Episode Parsed. Tribunal Justice - S03E26 
+2026-04-06 09:21:19.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.1|Debug|QualityParser|Trying to parse quality for 'Tribunal Justice S03E26 480p x264-mSD'
+2026-04-06 09:21:19.2|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:19.2|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:19.2|Debug|ParsingService|No matching series Tribunal Justice
+2026-04-06 09:21:19.2|Debug|DownloadDecisionMaker|Release 'Tribunal Justice S03E26 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.2|Debug|DownloadDecisionMaker|Processing release 'Historys Greatest Picks with Mike Wolfe S01E07 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.2|Debug|Parser|Parsing string 'Historys Greatest Picks with Mike Wolfe S01E07 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.2|Debug|Parser|Episode Parsed. Historys Greatest Picks with Mike Wolfe - S01E07 
+2026-04-06 09:21:19.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.2|Debug|QualityParser|Trying to parse quality for 'Historys Greatest Picks with Mike Wolfe S01E07 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:19.2|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:19.2|Debug|ParsingService|No matching series Historys Greatest Picks with Mike Wolfe
+2026-04-06 09:21:19.2|Debug|DownloadDecisionMaker|Release 'Historys Greatest Picks with Mike Wolfe S01E07 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.2|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E05 720p x264-FENiX' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.2|Debug|Parser|Parsing string 'The Faithful S01E05 720p x264-FENiX'
+2026-04-06 09:21:19.2|Debug|Parser|Episode Parsed. The Faithful - S01E05 
+2026-04-06 09:21:19.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.2|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E05 720p x264-FENiX'
+2026-04-06 09:21:19.2|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:19.2|Debug|Parser|Release Group parsed: FENiX
+2026-04-06 09:21:19.2|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:19.3|Debug|DownloadDecisionMaker|Release 'The Faithful S01E05 720p x264-FENiX' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.3|Debug|DownloadDecisionMaker|Processing release 'Judy Justice S04E56 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.3|Debug|Parser|Parsing string 'Judy Justice S04E56 XviD-AFG'
+2026-04-06 09:21:19.3|Debug|Parser|Episode Parsed. Judy Justice - S04E56 
+2026-04-06 09:21:19.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.3|Debug|QualityParser|Trying to parse quality for 'Judy Justice S04E56 XviD-AFG'
+2026-04-06 09:21:19.3|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:19.3|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:19.3|Debug|ParsingService|No matching series Judy Justice
+2026-04-06 09:21:19.3|Debug|DownloadDecisionMaker|Release 'Judy Justice S04E56 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.3|Debug|DownloadDecisionMaker|Processing release 'Judy Justice S04E56 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.3|Debug|Parser|Parsing string 'Judy Justice S04E56 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.3|Debug|Parser|Episode Parsed. Judy Justice - S04E56 
+2026-04-06 09:21:19.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.3|Debug|QualityParser|Trying to parse quality for 'Judy Justice S04E56 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.3|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:19.3|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:19.3|Debug|ParsingService|No matching series Judy Justice
+2026-04-06 09:21:19.4|Debug|DownloadDecisionMaker|Release 'Judy Justice S04E56 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.4|Debug|DownloadDecisionMaker|Processing release 'Judy Justice S04E56 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.4|Debug|Parser|Parsing string 'Judy Justice S04E56 480p x264-mSD'
+2026-04-06 09:21:19.4|Debug|Parser|Episode Parsed. Judy Justice - S04E56 
+2026-04-06 09:21:19.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.4|Debug|QualityParser|Trying to parse quality for 'Judy Justice S04E56 480p x264-mSD'
+2026-04-06 09:21:19.4|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:19.4|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:19.4|Debug|ParsingService|No matching series Judy Justice
+2026-04-06 09:21:19.4|Debug|DownloadDecisionMaker|Release 'Judy Justice S04E56 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.4|Debug|DownloadDecisionMaker|Processing release 'Historys Greatest Picks with Mike Wolfe S01E07 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.4|Debug|Parser|Parsing string 'Historys Greatest Picks with Mike Wolfe S01E07 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.4|Debug|Parser|Episode Parsed. Historys Greatest Picks with Mike Wolfe - S01E07 
+2026-04-06 09:21:19.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.4|Debug|QualityParser|Trying to parse quality for 'Historys Greatest Picks with Mike Wolfe S01E07 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.5|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:19.5|Debug|ParsingService|No matching series Historys Greatest Picks with Mike Wolfe
+2026-04-06 09:21:19.5|Debug|DownloadDecisionMaker|Release 'Historys Greatest Picks with Mike Wolfe S01E07 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.5|Debug|DownloadDecisionMaker|Processing release 'Judy Justice S04E56 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.5|Debug|Parser|Parsing string 'Judy Justice S04E56 720p HEVC x265-MeGusta'
+2026-04-06 09:21:19.5|Debug|Parser|Episode Parsed. Judy Justice - S04E56 
+2026-04-06 09:21:19.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.5|Debug|QualityParser|Trying to parse quality for 'Judy Justice S04E56 720p HEVC x265-MeGusta'
+2026-04-06 09:21:19.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:19.5|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:19.5|Debug|ParsingService|No matching series Judy Justice
+2026-04-06 09:21:19.5|Debug|DownloadDecisionMaker|Release 'Judy Justice S04E56 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.5|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.5|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.5|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:19.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.6|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.6|Debug|Parser|Release Group parsed: playWEB
+2026-04-06 09:21:19.6|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.6|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.6|Debug|DownloadDecisionMaker|Processing release 'American Pickers S27E20 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.6|Debug|Parser|Parsing string 'American Pickers S27E20 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.6|Debug|Parser|Episode Parsed. American Pickers - S27E20 
+2026-04-06 09:21:19.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.6|Debug|QualityParser|Trying to parse quality for 'American Pickers S27E20 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.6|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:19.6|Debug|ParsingService|No matching series American Pickers
+2026-04-06 09:21:19.6|Debug|DownloadDecisionMaker|Release 'American Pickers S27E20 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.6|Debug|DownloadDecisionMaker|Processing release 'Tribunal Justice S03E26 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.6|Debug|Parser|Parsing string 'Tribunal Justice S03E26 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.6|Debug|Parser|Episode Parsed. Tribunal Justice - S03E26 
+2026-04-06 09:21:19.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.6|Debug|QualityParser|Trying to parse quality for 'Tribunal Justice S03E26 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.6|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:19.7|Debug|ParsingService|No matching series Tribunal Justice
+2026-04-06 09:21:19.7|Debug|DownloadDecisionMaker|Release 'Tribunal Justice S03E26 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.7|Debug|DownloadDecisionMaker|Processing release 'Judy Justice S04E56 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.7|Debug|Parser|Parsing string 'Judy Justice S04E56 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.7|Debug|Parser|Episode Parsed. Judy Justice - S04E56 
+2026-04-06 09:21:19.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.7|Debug|QualityParser|Trying to parse quality for 'Judy Justice S04E56 1080p WEB h264-EDITH'
+2026-04-06 09:21:19.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.7|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:19.7|Debug|ParsingService|No matching series Judy Justice
+2026-04-06 09:21:19.7|Debug|DownloadDecisionMaker|Release 'Judy Justice S04E56 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.7|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.7|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.7|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:19.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.7|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:19.7|Debug|Parser|Release Group parsed: playWEB
+2026-04-06 09:21:19.7|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.7|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.7|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.8|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.8|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:19.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.8|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.8|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:19.8|Debug|Parser|Release Group parsed: playWEB
+2026-04-06 09:21:19.8|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.8|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.8|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.8|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.8|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:19.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.8|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB'
+2026-04-06 09:21:19.8|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:19.8|Debug|Parser|Release Group parsed: playWEB
+2026-04-06 09:21:19.8|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.8|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 720p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.8|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.8|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 480p x264-mSD'
+2026-04-06 09:21:19.8|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:19.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.8|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 480p x264-mSD'
+2026-04-06 09:21:19.8|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:19.8|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:19.8|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.9|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.9|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.9|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.9|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:19.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.9|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:19.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:19.9|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:19.9|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.9|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.9|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.9|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 XviD-AFG'
+2026-04-06 09:21:19.9|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:19.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.9|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 XviD-AFG'
+2026-04-06 09:21:19.9|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:19.9|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:19.9|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:19.9|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:19.9|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:19.9|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 XviD-AFG'
+2026-04-06 09:21:19.9|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:19.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:19.9|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 XviD-AFG'
+2026-04-06 09:21:19.9|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:20.0|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:20.0|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.0|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.0|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.0|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:20.0|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:20.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.0|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:20.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:20.0|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:20.0|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.0|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.0|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.0|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 480p x264-mSD'
+2026-04-06 09:21:20.0|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:20.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.0|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 480p x264-mSD'
+2026-04-06 09:21:20.0|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:20.0|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:20.0|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.0|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.0|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.0|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.0|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:20.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.1|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.1|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:20.1|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:20.1|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.1|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.1|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.1|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.1|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:20.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.1|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.1|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:20.1|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:20.1|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.1|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.1|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 1080p WEB h264-ETHEL' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.2|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 1080p WEB h264-ETHEL'
+2026-04-06 09:21:20.2|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:20.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.2|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 1080p WEB h264-ETHEL'
+2026-04-06 09:21:20.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:20.2|Debug|Parser|Release Group parsed: ETHEL
+2026-04-06 09:21:20.2|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.2|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 1080p WEB h264-ETHEL' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.2|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 1080p WEB h264-ETHEL' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.2|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 1080p WEB h264-ETHEL'
+2026-04-06 09:21:20.3|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:20.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.3|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 1080p WEB h264-ETHEL'
+2026-04-06 09:21:20.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:20.3|Debug|Parser|Release Group parsed: ETHEL
+2026-04-06 09:21:20.3|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:20.3|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 1080p WEB h264-ETHEL' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.3|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E05 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.3|Debug|Parser|Parsing string 'The Faithful S01E05 1080p WEB h264-EDITH'
+2026-04-06 09:21:20.3|Debug|Parser|Episode Parsed. The Faithful - S01E05 
+2026-04-06 09:21:20.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.3|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E05 1080p WEB h264-EDITH'
+2026-04-06 09:21:20.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:20.4|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:20.4|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:20.4|Debug|DownloadDecisionMaker|Release 'The Faithful S01E05 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.4|Debug|DownloadDecisionMaker|Processing release 'The Faithful S01E06 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.4|Debug|Parser|Parsing string 'The Faithful S01E06 1080p WEB h264-EDITH'
+2026-04-06 09:21:20.4|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:20.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.4|Debug|QualityParser|Trying to parse quality for 'The Faithful S01E06 1080p WEB h264-EDITH'
+2026-04-06 09:21:20.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:20.4|Debug|Parser|Release Group parsed: EDITH
+2026-04-06 09:21:20.4|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:20.4|Debug|DownloadDecisionMaker|Release 'The Faithful S01E06 1080p WEB h264-EDITH' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.4|Debug|DownloadDecisionMaker|Processing release 'Naked And Afraid S19E08 Clash of the Survivalists XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.4|Debug|Parser|Parsing string 'Naked And Afraid S19E08 Clash of the Survivalists XviD-AFG'
+2026-04-06 09:21:20.4|Debug|Parser|Episode Parsed. Naked And Afraid - S19E08 
+2026-04-06 09:21:20.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.4|Debug|QualityParser|Trying to parse quality for 'Naked And Afraid S19E08 Clash of the Survivalists XviD-AFG'
+2026-04-06 09:21:20.5|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:20.5|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:20.5|Debug|ParsingService|No matching series Naked And Afraid
+2026-04-06 09:21:20.5|Debug|DownloadDecisionMaker|Release 'Naked And Afraid S19E08 Clash of the Survivalists XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.5|Debug|DownloadDecisionMaker|Processing release 'Naked And Afraid S19E08 Clash of the Survivalists 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.5|Debug|Parser|Parsing string 'Naked And Afraid S19E08 Clash of the Survivalists 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.5|Debug|Parser|Episode Parsed. Naked And Afraid - S19E08 
+2026-04-06 09:21:20.5|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.5|Debug|QualityParser|Trying to parse quality for 'Naked And Afraid S19E08 Clash of the Survivalists 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:20.6|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:20.6|Debug|ParsingService|No matching series Naked And Afraid
+2026-04-06 09:21:20.6|Debug|DownloadDecisionMaker|Release 'Naked And Afraid S19E08 Clash of the Survivalists 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.6|Debug|DownloadDecisionMaker|Processing release 'Naked And Afraid S19E08 Clash of the Survivalists 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.6|Debug|Parser|Parsing string 'Naked And Afraid S19E08 Clash of the Survivalists 480p x264-mSD'
+2026-04-06 09:21:20.6|Debug|Parser|Episode Parsed. Naked And Afraid - S19E08 
+2026-04-06 09:21:20.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.6|Debug|QualityParser|Trying to parse quality for 'Naked And Afraid S19E08 Clash of the Survivalists 480p x264-mSD'
+2026-04-06 09:21:20.6|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:20.6|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:20.6|Debug|ParsingService|No matching series Naked And Afraid
+2026-04-06 09:21:20.6|Debug|DownloadDecisionMaker|Release 'Naked And Afraid S19E08 Clash of the Survivalists 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.6|Debug|DownloadDecisionMaker|Processing release 'Naked And Afraid S19E08 Clash of the Survivalists 720p WEB h264-CBFM' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.6|Debug|Parser|Parsing string 'Naked And Afraid S19E08 Clash of the Survivalists 720p WEB h264-CBFM'
+2026-04-06 09:21:20.6|Debug|Parser|Episode Parsed. Naked And Afraid - S19E08 
+2026-04-06 09:21:20.6|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.6|Debug|QualityParser|Trying to parse quality for 'Naked And Afraid S19E08 Clash of the Survivalists 720p WEB h264-CBFM'
+2026-04-06 09:21:20.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:20.7|Debug|Parser|Release Group parsed: CBFM
+2026-04-06 09:21:20.7|Debug|ParsingService|No matching series Naked And Afraid
+2026-04-06 09:21:20.7|Debug|DownloadDecisionMaker|Release 'Naked And Afraid S19E08 Clash of the Survivalists 720p WEB h264-CBFM' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.7|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.7|Debug|Parser|Parsing string 'Watson S02E16 480p x264-mSD'
+2026-04-06 09:21:20.7|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:20.7|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.7|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 480p x264-mSD'
+2026-04-06 09:21:20.7|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:20.7|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:20.7|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:20.7|Debug|DownloadDecisionMaker|Release 'Watson S02E16 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.7|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 XviD-AFG' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.8|Debug|Parser|Parsing string 'Watson S02E16 XviD-AFG'
+2026-04-06 09:21:20.8|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:20.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.8|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 XviD-AFG'
+2026-04-06 09:21:20.8|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:20.8|Debug|Parser|Release Group parsed: AFG
+2026-04-06 09:21:20.8|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:20.8|Debug|DownloadDecisionMaker|Release 'Watson S02E16 XviD-AFG' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.8|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.8|Debug|Parser|Parsing string 'Watson S02E16 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:20.8|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:20.8|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.8|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:20.8|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:20.8|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:20.8|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:20.8|Debug|DownloadDecisionMaker|Release 'Watson S02E16 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.8|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.9|Debug|Parser|Parsing string 'Watson S02E16 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.9|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:20.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.9|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 720p HEVC x265-MeGusta'
+2026-04-06 09:21:20.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:20.9|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:20.9|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:20.9|Debug|DownloadDecisionMaker|Release 'Watson S02E16 720p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:20.9|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 720p WEB H264-SYLiX' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:20.9|Debug|Parser|Parsing string 'Watson S02E16 720p WEB H264-SYLiX'
+2026-04-06 09:21:20.9|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:20.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:20.9|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 720p WEB H264-SYLiX'
+2026-04-06 09:21:20.9|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:21.0|Debug|Parser|Release Group parsed: SYLiX
+2026-04-06 09:21:21.0|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:21.0|Debug|DownloadDecisionMaker|Release 'Watson S02E16 720p WEB H264-SYLiX' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.0|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 1080p WEB h264-ETHEL' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.0|Debug|Parser|Parsing string 'Watson S02E16 1080p WEB h264-ETHEL'
+2026-04-06 09:21:21.0|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:21.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.0|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 1080p WEB h264-ETHEL'
+2026-04-06 09:21:21.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:21.0|Debug|Parser|Release Group parsed: ETHEL
+2026-04-06 09:21:21.0|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:21.0|Debug|DownloadDecisionMaker|Release 'Watson S02E16 1080p WEB h264-ETHEL' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.0|Debug|DownloadDecisionMaker|Processing release 'Tracker 2024 S03E15 720p WEB H264-SYLiX' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.1|Debug|Parser|Parsing string 'Tracker 2024 S03E15 720p WEB H264-SYLiX'
+2026-04-06 09:21:21.1|Debug|Parser|Episode Parsed. Tracker 2024 - S03E15 
+2026-04-06 09:21:21.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.1|Debug|QualityParser|Trying to parse quality for 'Tracker 2024 S03E15 720p WEB H264-SYLiX'
+2026-04-06 09:21:21.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:21.1|Debug|Parser|Release Group parsed: SYLiX
+2026-04-06 09:21:21.1|Debug|ParsingService|No matching series Tracker 2024
+2026-04-06 09:21:21.1|Debug|DownloadDecisionMaker|Release 'Tracker 2024 S03E15 720p WEB H264-SYLiX' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.1|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 HDTV X264-NGP' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.1|Debug|Parser|Parsing string 'Watson S02E16 HDTV X264-NGP'
+2026-04-06 09:21:21.1|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:21.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.1|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 HDTV X264-NGP'
+2026-04-06 09:21:21.1|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:21.1|Debug|Parser|Release Group parsed: NGP
+2026-04-06 09:21:21.2|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:21.2|Debug|DownloadDecisionMaker|Release 'Watson S02E16 HDTV X264-NGP' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.2|Debug|DownloadDecisionMaker|Processing release 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E10 1080p CR WEB-DL AAC2 0 H 264-BiOMA' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.2|Debug|Parser|Parsing string 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E10 1080p CR WEB-DL AAC2 0 H 264-BiOMA'
+2026-04-06 09:21:21.2|Debug|Parser|Episode Parsed. There Was a Cute Girl in the Heros Party So I Tried Confessing to Her - S01E10 
+2026-04-06 09:21:21.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.2|Debug|QualityParser|Trying to parse quality for 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E10 1080p CR WEB-DL AAC2 0 H 264-BiOMA'
+2026-04-06 09:21:21.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:21.2|Debug|Parser|Release Group parsed: BiOMA
+2026-04-06 09:21:21.2|Debug|ParsingService|No matching series There Was a Cute Girl in the Heros Party So I Tried Confessing to Her
+2026-04-06 09:21:21.2|Debug|DownloadDecisionMaker|Release 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E10 1080p CR WEB-DL AAC2 0 H 264-BiOMA' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.2|Debug|DownloadDecisionMaker|Processing release 'Tracker 2024 S03E15 No Good Deed 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.2|Debug|Parser|Parsing string 'Tracker 2024 S03E15 No Good Deed 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:21.2|Debug|Parser|Episode Parsed. Tracker 2024 - S03E15 
+2026-04-06 09:21:21.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.2|Debug|QualityParser|Trying to parse quality for 'Tracker 2024 S03E15 No Good Deed 1080p HEVC x265-MeGusta'
+2026-04-06 09:21:21.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:21.2|Debug|Parser|Release Group parsed: MeGusta
+2026-04-06 09:21:21.3|Debug|ParsingService|No matching series Tracker 2024
+2026-04-06 09:21:21.3|Debug|DownloadDecisionMaker|Release 'Tracker 2024 S03E15 No Good Deed 1080p HEVC x265-MeGusta' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.3|Debug|DownloadDecisionMaker|Processing release 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E08 1080p CR WEB-DL AAC2 0 H 264-BiOMA' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.3|Debug|Parser|Parsing string 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E08 1080p CR WEB-DL AAC2 0 H 264-BiOMA'
+2026-04-06 09:21:21.3|Debug|Parser|Episode Parsed. There Was a Cute Girl in the Heros Party So I Tried Confessing to Her - S01E08 
+2026-04-06 09:21:21.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.3|Debug|QualityParser|Trying to parse quality for 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E08 1080p CR WEB-DL AAC2 0 H 264-BiOMA'
+2026-04-06 09:21:21.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:21.3|Debug|Parser|Release Group parsed: BiOMA
+2026-04-06 09:21:21.3|Debug|ParsingService|No matching series There Was a Cute Girl in the Heros Party So I Tried Confessing to Her
+2026-04-06 09:21:21.3|Debug|DownloadDecisionMaker|Release 'There Was a Cute Girl in the Heros Party So I Tried Confessing to Her S01E08 1080p CR WEB-DL AAC2 0 H 264-BiOMA' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.3|Debug|DownloadDecisionMaker|Processing release 'Tracker 2024 S03E15 No Good Deed 480p x264-mSD' from 'EZTV (Prowlarr)'
+2026-04-06 09:21:21.3|Debug|Parser|Parsing string 'Tracker 2024 S03E15 No Good Deed 480p x264-mSD'
+2026-04-06 09:21:21.3|Debug|Parser|Episode Parsed. Tracker 2024 - S03E15 
+2026-04-06 09:21:21.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.3|Debug|QualityParser|Trying to parse quality for 'Tracker 2024 S03E15 No Good Deed 480p x264-mSD'
+2026-04-06 09:21:21.3|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:21.3|Debug|Parser|Release Group parsed: mSD
+2026-04-06 09:21:21.4|Debug|ParsingService|No matching series Tracker 2024
+2026-04-06 09:21:21.4|Debug|DownloadDecisionMaker|Release 'Tracker 2024 S03E15 No Good Deed 480p x264-mSD' from 'EZTV (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.4|Debug|DownloadDecisionMaker|Processing release 'Outlander.Blood.of.My.Blood.S01.2160p.MAX.WEB-DL.DDP5.1.x265-NTb' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.4|Debug|Parser|Parsing string 'Outlander.Blood.of.My.Blood.S01.2160p.MAX.WEB-DL.DDP5.1.x265-NTb'
+2026-04-06 09:21:21.4|Debug|Parser|Episode Parsed. Outlander Blood of My Blood - Season 01 
+2026-04-06 09:21:21.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.4|Debug|QualityParser|Trying to parse quality for 'Outlander.Blood.of.My.Blood.S01.2160p.MAX.WEB-DL.DDP5.1.x265-NTb'
+2026-04-06 09:21:21.4|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2026-04-06 09:21:21.4|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:21:21.4|Debug|ParsingService|No matching series Outlander Blood of My Blood
+2026-04-06 09:21:21.4|Debug|DownloadDecisionMaker|Release 'Outlander.Blood.of.My.Blood.S01.2160p.MAX.WEB-DL.DDP5.1.x265-NTb' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.4|Debug|DownloadDecisionMaker|Processing release 'Outlander.Blood.of.My.Blood.S01.1080p.WEBRip.DS4K.AV1.Opus.5.1-heTOrico' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.4|Debug|Parser|Parsing string 'Outlander.Blood.of.My.Blood.S01.1080p.WEBRip.DS4K.AV1.Opus.5.1-heTOrico'
+2026-04-06 09:21:21.4|Debug|Parser|Episode Parsed. Outlander Blood of My Blood - Season 01 
+2026-04-06 09:21:21.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.4|Debug|QualityParser|Trying to parse quality for 'Outlander.Blood.of.My.Blood.S01.1080p.WEBRip.DS4K.AV1.Opus.5.1-heTOrico'
+2026-04-06 09:21:21.4|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-04-06 09:21:21.4|Debug|Parser|Release Group parsed: heTOrico
+2026-04-06 09:21:21.4|Debug|ParsingService|No matching series Outlander Blood of My Blood
+2026-04-06 09:21:21.5|Debug|DownloadDecisionMaker|Release 'Outlander.Blood.of.My.Blood.S01.1080p.WEBRip.DS4K.AV1.Opus.5.1-heTOrico' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.5|Debug|DownloadDecisionMaker|Processing release 'Marshals S01E06 Out of the Shadows 2160p HMAX WEB-DL ENG ITA DDP 5.1 H265-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.5|Debug|Parser|Parsing string 'Marshals S01E06 Out of the Shadows 2160p HMAX WEB-DL ENG ITA DDP 5.1 H265-TheBlackKing'
+2026-04-06 09:21:21.5|Debug|Parser|Episode Parsed. Marshals - S01E06 
+2026-04-06 09:21:21.5|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:21.5|Debug|QualityParser|Trying to parse quality for 'Marshals S01E06 Out of the Shadows 2160p HMAX WEB-DL ENG ITA DDP 5.1 H265-TheBlackKing'
+2026-04-06 09:21:21.5|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2026-04-06 09:21:21.5|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:21.5|Debug|ParsingService|No matching series Marshals
+2026-04-06 09:21:21.5|Debug|DownloadDecisionMaker|Release 'Marshals S01E06 Out of the Shadows 2160p HMAX WEB-DL ENG ITA DDP 5.1 H265-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.5|Debug|DownloadDecisionMaker|Processing release 'Marshals S01E06 Out of the Shadows 1080p HMAX WEB-DL ENG ITA DDP 5.1 H264-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.5|Debug|Parser|Parsing string 'Marshals S01E06 Out of the Shadows 1080p HMAX WEB-DL ENG ITA DDP 5.1 H264-TheBlackKing'
+2026-04-06 09:21:21.6|Debug|Parser|Episode Parsed. Marshals - S01E06 
+2026-04-06 09:21:21.6|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:21.6|Debug|QualityParser|Trying to parse quality for 'Marshals S01E06 Out of the Shadows 1080p HMAX WEB-DL ENG ITA DDP 5.1 H264-TheBlackKing'
+2026-04-06 09:21:21.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:21.6|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:21.6|Debug|ParsingService|No matching series Marshals
+2026-04-06 09:21:21.6|Debug|DownloadDecisionMaker|Release 'Marshals S01E06 Out of the Shadows 1080p HMAX WEB-DL ENG ITA DDP 5.1 H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.6|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.6|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing'
+2026-04-06 09:21:21.6|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E02 
+2026-04-06 09:21:21.6|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:21.6|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing'
+2026-04-06 09:21:21.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:21.6|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:21.7|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:21.7|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E02 Chapter 2 Sinister Schemes 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.7|Debug|DownloadDecisionMaker|Processing release 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.7|Debug|Parser|Parsing string 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing'
+2026-04-06 09:21:21.7|Debug|Parser|Episode Parsed. Star Wars Maul Shadow Lord - S01E01 
+2026-04-06 09:21:21.7|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:21.7|Debug|QualityParser|Trying to parse quality for 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing'
+2026-04-06 09:21:21.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:21.8|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:21.8|Debug|ParsingService|No matching series Star Wars Maul Shadow Lord
+2026-04-06 09:21:21.8|Debug|DownloadDecisionMaker|Release 'Star Wars Maul Shadow Lord S01E01 Chapter 1 The Dark Revenge 1080p DSNP WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.8|Debug|DownloadDecisionMaker|Processing release 'Agent From Above Season 01 2026 COMPLETE 1080p NFRip x265 ita AAC Sub ita-Pir8' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.8|Debug|Parser|Parsing string 'Agent From Above Season 01 2026 COMPLETE 1080p NFRip x265 ita AAC Sub ita-Pir8'
+2026-04-06 09:21:21.8|Debug|Parser|Episode Parsed. Agent From Above - Season 01 
+2026-04-06 09:21:21.8|Debug|Parser|Languages parsed: Italian
+2026-04-06 09:21:21.8|Debug|QualityParser|Trying to parse quality for 'Agent From Above Season 01 2026 COMPLETE 1080p NFRip x265 ita AAC Sub ita-Pir8'
+2026-04-06 09:21:21.8|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:21.8|Debug|Parser|Release Group parsed: Pir8
+2026-04-06 09:21:21.8|Debug|ParsingService|No matching series Agent From Above
+2026-04-06 09:21:21.8|Debug|DownloadDecisionMaker|Release 'Agent From Above Season 01 2026 COMPLETE 1080p NFRip x265 ita AAC Sub ita-Pir8' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.8|Debug|DownloadDecisionMaker|Processing release 'The Terry Pratchett Collection Hogfather Colour of Magic Going Postal 1080p BluRay HEVC x265 5 1-BONE' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.9|Debug|Parser|Parsing string 'The Terry Pratchett Collection Hogfather Colour of Magic Going Postal 1080p BluRay HEVC x265 5 1-BONE'
+2026-04-06 09:21:21.9|Debug|Parser|Unable to parse The Terry Pratchett Collection Hogfather Colour of Magic Going Postal 1080p BluRay HEVC x265 5 1-BONE
+2026-04-06 09:21:21.9|Debug|Parser|Parsing string 'The Terry Pratchett Collection Hogfather Colour of Magic Going Postal 1080p BluRay HEVC x265 5 1-BONE'
+2026-04-06 09:21:21.9|Debug|Parser|Unable to parse The Terry Pratchett Collection Hogfather Colour of Magic Going Postal 1080p BluRay HEVC x265 5 1-BONE
+2026-04-06 09:21:21.9|Debug|ParsingService|No matching series The Terry Pratchett Collection Hogfather Colour of Magic Going Postal 1080p BluRay HEVC x265 5 1-BONE
+2026-04-06 09:21:21.9|Debug|DownloadDecisionMaker|Processing release 'Robson Green's Weekend Escapes s03e05 Siblings 1080p H265 + subs BigJ0554' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.9|Debug|Parser|Parsing string 'Robson Green's Weekend Escapes s03e05 Siblings 1080p H265 + subs BigJ0554'
+2026-04-06 09:21:21.9|Debug|Parser|Episode Parsed. Robson Green's Weekend Escapes - S03E05 
+2026-04-06 09:21:21.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:21.9|Debug|QualityParser|Trying to parse quality for 'Robson Green's Weekend Escapes s03e05 Siblings 1080p H265 + subs BigJ0554'
+2026-04-06 09:21:21.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:21.9|Debug|Parser|Release Group parsed: 
+2026-04-06 09:21:21.9|Debug|ParsingService|No matching series Robson Green's Weekend Escapes
+2026-04-06 09:21:21.9|Debug|DownloadDecisionMaker|Release 'Robson Green's Weekend Escapes s03e05 Siblings 1080p H265 + subs BigJ0554' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:21.9|Debug|DownloadDecisionMaker|Processing release 'The.Faithful.S01E06.720p.WEB.h264' from '1337x (Prowlarr)'
+2026-04-06 09:21:21.9|Debug|Parser|Parsing string 'The.Faithful.S01E06.720p.WEB.h264'
+2026-04-06 09:21:21.9|Debug|Parser|Episode Parsed. The Faithful - S01E06 
+2026-04-06 09:21:21.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.0|Debug|QualityParser|Trying to parse quality for 'The.Faithful.S01E06.720p.WEB.h264'
+2026-04-06 09:21:22.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:21:22.0|Debug|Parser|Release Group parsed: 
+2026-04-06 09:21:22.0|Debug|ParsingService|No matching series The Faithful
+2026-04-06 09:21:22.0|Debug|DownloadDecisionMaker|Release 'The.Faithful.S01E06.720p.WEB.h264' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.0|Debug|DownloadDecisionMaker|Processing release 'Star.Wars.Maul. .Shadow.Lord.S01E02.Chapter.2.Sinister.Schemes.720p.H.264' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.0|Debug|Parser|Parsing string 'Star.Wars.Maul. .Shadow.Lord.S01E02.Chapter.2.Sinister.Schemes.720p.H.264'
+2026-04-06 09:21:22.0|Debug|Parser|Episode Parsed. Star Wars Maul   Shadow Lord - S01E02 
+2026-04-06 09:21:22.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.0|Debug|QualityParser|Trying to parse quality for 'Star.Wars.Maul. .Shadow.Lord.S01E02.Chapter.2.Sinister.Schemes.720p.H.264'
+2026-04-06 09:21:22.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:22.0|Debug|Parser|Release Group parsed: 
+2026-04-06 09:21:22.0|Debug|ParsingService|No matching series Star Wars Maul   Shadow Lord
+2026-04-06 09:21:22.0|Debug|DownloadDecisionMaker|Release 'Star.Wars.Maul. .Shadow.Lord.S01E02.Chapter.2.Sinister.Schemes.720p.H.264' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.0|Debug|DownloadDecisionMaker|Processing release 'Star.Wars.Maul. .Shadow.Lord.S01E01.Chapter.1.The.Dark.Revenge.720p.H.264' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.0|Debug|Parser|Parsing string 'Star.Wars.Maul. .Shadow.Lord.S01E01.Chapter.1.The.Dark.Revenge.720p.H.264'
+2026-04-06 09:21:22.0|Debug|Parser|Episode Parsed. Star Wars Maul   Shadow Lord - S01E01 
+2026-04-06 09:21:22.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.0|Debug|QualityParser|Trying to parse quality for 'Star.Wars.Maul. .Shadow.Lord.S01E01.Chapter.1.The.Dark.Revenge.720p.H.264'
+2026-04-06 09:21:22.1|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-04-06 09:21:22.1|Debug|Parser|Release Group parsed: 
+2026-04-06 09:21:22.1|Debug|ParsingService|No matching series Star Wars Maul   Shadow Lord
+2026-04-06 09:21:22.1|Debug|DownloadDecisionMaker|Release 'Star.Wars.Maul. .Shadow.Lord.S01E01.Chapter.1.The.Dark.Revenge.720p.H.264' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.1|Debug|DownloadDecisionMaker|Processing release 'Rooster S01E05 Mr Razzles 1080p HMAX WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.1|Debug|Parser|Parsing string 'Rooster S01E05 Mr Razzles 1080p HMAX WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing'
+2026-04-06 09:21:22.1|Debug|Parser|Episode Parsed. Rooster - S01E05 
+2026-04-06 09:21:22.1|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:22.1|Debug|QualityParser|Trying to parse quality for 'Rooster S01E05 Mr Razzles 1080p HMAX WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing'
+2026-04-06 09:21:22.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:22.1|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:22.1|Debug|ParsingService|No matching series Rooster
+2026-04-06 09:21:22.1|Debug|DownloadDecisionMaker|Release 'Rooster S01E05 Mr Razzles 1080p HMAX WEB-DL DDP 5.1 ENG Atmos ITA H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.1|Debug|DownloadDecisionMaker|Processing release 'Tracker.S03E10.The.Fallout.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.1|Debug|Parser|Parsing string 'Tracker.S03E10.The.Fallout.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing'
+2026-04-06 09:21:22.1|Debug|Parser|Episode Parsed. Tracker - S03E10 
+2026-04-06 09:21:22.1|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:22.1|Debug|QualityParser|Trying to parse quality for 'Tracker.S03E10.The.Fallout.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing'
+2026-04-06 09:21:22.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:22.1|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:22.1|Debug|Parser|Parsing string 'Tracker.S03E10.The.Fallout.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing'
+2026-04-06 09:21:22.1|Debug|SceneMappingService|Found scene mapping for: Tracker. TVDB ID for mapping: 428433
+2026-04-06 09:21:22.1|Debug|ParsingService|No matching series Tracker
+2026-04-06 09:21:22.2|Debug|Parser|Parsing string 'Tracker.S03E10.The.Fallout.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing'
+2026-04-06 09:21:22.2|Debug|SceneMappingService|Found scene mapping for: Tracker. TVDB ID for mapping: 428433
+2026-04-06 09:21:22.2|Debug|DownloadDecisionMaker|Release 'Tracker.S03E10.The.Fallout.1080p.DSNP.WEB-DL.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Tracker matches an alias for series with TVDB ID: 428433
+2026-04-06 09:21:22.2|Debug|DownloadDecisionMaker|Processing release 'Scrubs.2026.S01E03.My.Rom Com.1080p.DSNP.WEB-DL.DDP5.1.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.2|Debug|Parser|Parsing string 'Scrubs.2026.S01E03.My.Rom Com.1080p.DSNP.WEB-DL.DDP5.1.ENG.ITA.H264-TheBlackKing'
+2026-04-06 09:21:22.2|Debug|Parser|Episode Parsed. Scrubs 2026 - S01E03 
+2026-04-06 09:21:22.2|Debug|Parser|Languages parsed: English, Italian
+2026-04-06 09:21:22.2|Debug|QualityParser|Trying to parse quality for 'Scrubs.2026.S01E03.My.Rom Com.1080p.DSNP.WEB-DL.DDP5.1.ENG.ITA.H264-TheBlackKing'
+2026-04-06 09:21:22.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:22.2|Debug|Parser|Release Group parsed: TheBlackKing
+2026-04-06 09:21:22.2|Debug|ParsingService|No matching series Scrubs 2026
+2026-04-06 09:21:22.2|Debug|DownloadDecisionMaker|Release 'Scrubs.2026.S01E03.My.Rom Com.1080p.DSNP.WEB-DL.DDP5.1.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.2|Debug|DownloadDecisionMaker|Processing release 'Saturday Kitchen 04.April.2026 1080p H265 + subs BigJ0554' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.2|Debug|Parser|Parsing string 'Saturday Kitchen 04.April.2026 1080p H265 + subs BigJ0554'
+2026-04-06 09:21:22.2|Debug|Parser|Episode Parsed. Saturday Kitchen 04 April - S20E26 
+2026-04-06 09:21:22.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.2|Debug|QualityParser|Trying to parse quality for 'Saturday Kitchen 04.April.2026 1080p H265 + subs BigJ0554'
+2026-04-06 09:21:22.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-04-06 09:21:22.3|Debug|Parser|Release Group parsed: 
+2026-04-06 09:21:22.3|Debug|ParsingService|No matching series Saturday Kitchen 04 April
+2026-04-06 09:21:22.3|Debug|DownloadDecisionMaker|Release 'Saturday Kitchen 04.April.2026 1080p H265 + subs BigJ0554' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.3|Debug|DownloadDecisionMaker|Processing release 'Marshals A Yellowstone Story S01E6 Fuori dall Ombra ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.3|Debug|Parser|Parsing string 'Marshals A Yellowstone Story S01E6 Fuori dall Ombra ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2026-04-06 09:21:22.3|Debug|Parser|Episode Parsed. Marshals A Yellowstone Story - S01E06 
+2026-04-06 09:21:22.3|Debug|Parser|Languages parsed: Italian, English
+2026-04-06 09:21:22.3|Debug|QualityParser|Trying to parse quality for 'Marshals A Yellowstone Story S01E6 Fuori dall Ombra ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2026-04-06 09:21:22.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:21:22.3|Debug|Parser|Release Group parsed: mkv
+2026-04-06 09:21:22.3|Debug|Parser|Parsing string 'Marshals A Yellowstone Story S01E6 Fuori dall Ombra ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2026-04-06 09:21:22.3|Debug|SceneMappingService|Found scene mapping for: Marshals A Yellowstone Story. TVDB ID for mapping: 463433
+2026-04-06 09:21:22.3|Debug|ParsingService|No matching series Marshals A Yellowstone Story
+2026-04-06 09:21:22.3|Debug|Parser|Parsing string 'Marshals A Yellowstone Story S01E6 Fuori dall Ombra ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2026-04-06 09:21:22.3|Debug|SceneMappingService|Found scene mapping for: Marshals A Yellowstone Story. TVDB ID for mapping: 463433
+2026-04-06 09:21:22.3|Debug|DownloadDecisionMaker|Release 'Marshals A Yellowstone Story S01E6 Fuori dall Ombra ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Marshals A Yellowstone Story matches an alias for series with TVDB ID: 463433
+2026-04-06 09:21:22.3|Debug|DownloadDecisionMaker|Processing release 'Watson S02E16 HDTV X264-NGP' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.3|Debug|Parser|Parsing string 'Watson S02E16 HDTV X264-NGP'
+2026-04-06 09:21:22.3|Debug|Parser|Episode Parsed. Watson - S02E16 
+2026-04-06 09:21:22.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.3|Debug|QualityParser|Trying to parse quality for 'Watson S02E16 HDTV X264-NGP'
+2026-04-06 09:21:22.3|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:22.4|Debug|Parser|Release Group parsed: NGP
+2026-04-06 09:21:22.4|Debug|ParsingService|No matching series Watson
+2026-04-06 09:21:22.4|Debug|DownloadDecisionMaker|Release 'Watson S02E16 HDTV X264-NGP' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.4|Debug|DownloadDecisionMaker|Processing release 'Finding Harry The Craft Behind the Magic 2026' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.4|Debug|Parser|Parsing string 'Finding Harry The Craft Behind the Magic 2026'
+2026-04-06 09:21:22.4|Debug|Parser|Episode Parsed. Finding Harry The Craft Behind the Magic - S20E26 
+2026-04-06 09:21:22.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.4|Debug|QualityParser|Trying to parse quality for 'Finding Harry The Craft Behind the Magic 2026'
+2026-04-06 09:21:22.4|Debug|Parser|Quality parsed: Unknown v1
+2026-04-06 09:21:22.4|Debug|Parser|Release Group parsed: 
+2026-04-06 09:21:22.4|Debug|ParsingService|No matching series Finding Harry The Craft Behind the Magic
+2026-04-06 09:21:22.4|Debug|DownloadDecisionMaker|Release 'Finding Harry The Craft Behind the Magic 2026' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-04-06 09:21:22.4|Debug|DownloadDecisionMaker|Processing release 'Tracker S03E15 HDTV X264-NGP' from '1337x (Prowlarr)'
+2026-04-06 09:21:22.4|Debug|Parser|Parsing string 'Tracker S03E15 HDTV X264-NGP'
+2026-04-06 09:21:22.4|Debug|Parser|Episode Parsed. Tracker - S03E15 
+2026-04-06 09:21:22.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:21:22.4|Debug|QualityParser|Trying to parse quality for 'Tracker S03E15 HDTV X264-NGP'
+2026-04-06 09:21:22.4|Debug|Parser|Quality parsed: SDTV v1
+2026-04-06 09:21:22.4|Debug|Parser|Release Group parsed: NGP
+2026-04-06 09:21:22.4|Debug|Parser|Parsing string 'Tracker S03E15 HDTV X264-NGP'
+2026-04-06 09:21:22.4|Debug|SceneMappingService|Found scene mapping for: Tracker. TVDB ID for mapping: 428433
+2026-04-06 09:21:22.4|Debug|ParsingService|No matching series Tracker
+2026-04-06 09:21:22.4|Debug|Parser|Parsing string 'Tracker S03E15 HDTV X264-NGP'
+2026-04-06 09:21:22.4|Debug|SceneMappingService|Found scene mapping for: Tracker. TVDB ID for mapping: 428433
+2026-04-06 09:21:22.4|Debug|DownloadDecisionMaker|Release 'Tracker S03E15 HDTV X264-NGP' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Tracker matches an alias for series with TVDB ID: 428433
+2026-04-06 09:21:22.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 09:21:22.5|Debug|PendingReleaseService|Removing failed releases from pending
+2026-04-06 09:22:35.0|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:22:35.0|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:22:35.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:22:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:22:35.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:22:35.0|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:22:35.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:22:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:22:35.0|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:22:35.0|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:22:35.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:22:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:22:35.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:22:35.0|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:22:35.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:22:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:22:35.1|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:22:35.1|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:22:35.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:22:35.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:22:35.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:22:35.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:22:35.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:22:35.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:22:35.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:22:35.1|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:22:35.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:22:35.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:22:35.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:22:35.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:22:35.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:22:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:22:35.2|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:22:35.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:22:35.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:22:35.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:22:35.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:22:35.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:22:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:22:35.2|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:22:35.2|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:22:35.2|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:22:35.2|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:22:35.2|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:22:35.2|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:22:35.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:22:35.2|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:22:35.3|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:22:35.3|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'

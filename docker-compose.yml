@@ -10,12 +10,12 @@ services:
     networks:
       - media-network
     environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
-      - PLEX_CLAIM=claim-tgd-QxGHsaHsfCUTAZUh
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+      - PLEX_CLAIM=${PLEX_CLAIM}
       - VERSION=docker
-      - ADVERTISE_IP=http://192.168.2.56:32400/
+      - ADVERTISE_IP=${ADVERTISE_IP}
     volumes:
       - ./config:/config
       - "D:\\PlexMedia:/data"
@@ -29,9 +29,9 @@ services:
     networks:
       - media-network
     environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
     volumes:
       - ./radarr-config:/config
       - "D:\\PlexMedia:/data"
@@ -45,9 +45,9 @@ services:
     networks:
       - media-network
     environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
     volumes:
       - ./sonarr-config:/config
       - "D:\\PlexMedia:/data"
@@ -61,11 +61,11 @@ services:
     networks:
       - media-network
     environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
-      - DELUGE_USER=admin
-      - DELUGE_PASS=adminadmin
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
+      - DELUGE_USER=${DELUGE_USER}
+      - DELUGE_PASS=${DELUGE_PASS}
     volumes:
       - ./deluge-config:/config
       - "D:\\PlexMedia:/data"
@@ -81,9 +81,9 @@ services:
     networks:
       - media-network
     environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
     volumes:
       - ./prowlarr-config:/config
     ports:
@@ -97,7 +97,7 @@ services:
       - media-network
     environment:
       - LOG_LEVEL=info
-      - TZ=America/New_York
+      - TZ=${TZ}
     ports:
       - "8191:8191"
     restart: unless-stopped
@@ -108,9 +108,9 @@ services:
     networks:
       - media-network
     environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
+      - PUID=${PUID}
+      - PGID=${PGID}
+      - TZ=${TZ}
     volumes:
       - ./tautulli-config:/config
     ports:
@@ -125,7 +125,7 @@ services:
       - media-network
     environment:
       - LOG_LEVEL=debug
-      - TZ=America/New_York
+      - TZ=${TZ}
     volumes:
       - ./overseerr-config:/app/config
     ports:

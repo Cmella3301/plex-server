@@ -6211,3 +6211,40 @@ FeedUrl: https://eztvx.to/home
 2026-04-06 09:09:00.4|Debug|Sonarr|Skipping add for indexer YTS [1] due to no app Sync Categories supported by the indexer
 2026-04-06 09:09:00.4|Debug|ApplicationService|No tags set to application Sonarr.
 2026-04-06 09:09:00.4|Debug|ApplicationService|No tags set to application Sonarr.
+2026-04-06 09:21:05.0|Info|ReleaseSearchService|Searching indexer(s): [EZTV] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2026-04-06 09:21:05.0|Debug|Cardigann|Adding request for EZTV: https://eztvx.to/home
+2026-04-06 09:21:05.0|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070]
+2026-04-06 09:21:05.0|Debug|Cardigann|Downloading Feed https://eztvx.to/home
+2026-04-06 09:21:05.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/1/
+2026-04-06 09:21:05.0|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/1/
+2026-04-06 09:21:05.3|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:21:05.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:21:05.6|Debug|ReleaseSearchService|Total of 100 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2026-04-06 09:21:06.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/1/
+2026-04-06 09:21:06.0|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/1/
+2026-04-06 09:21:08.7|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:21:09.3|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/1/
+2026-04-06 09:21:09.3|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/1/
+2026-04-06 09:21:11.7|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:21:11.9|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/1/
+2026-04-06 09:21:11.9|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
+2026-04-06 09:21:14.8|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:21:15.4|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070] from 1 indexer(s)
+2026-04-06 09:22:07.3|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2026-04-06 09:22:07.3|Debug|Cardigann|Adding request for YTS: https://movies-api.accel.li/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2026-04-06 09:22:07.3|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045]
+2026-04-06 09:22:07.3|Debug|Cardigann|Downloading Feed https://movies-api.accel.li/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2026-04-06 09:22:07.3|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/1/
+2026-04-06 09:22:07.3|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/1/
+2026-04-06 09:22:07.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:22:07.9|Debug|ReleaseSearchService|Total of 102 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060] from 1 indexer(s)
+2026-04-06 09:22:08.1|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/1/
+2026-04-06 09:22:08.1|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/1/
+2026-04-06 09:22:10.8|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:22:11.4|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/1/
+2026-04-06 09:22:11.4|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/1/
+2026-04-06 09:22:13.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:22:13.7|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/1/
+2026-04-06 09:22:13.7|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
+2026-04-06 09:22:17.2|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:22:17.8|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045] from 1 indexer(s)

@@ -17,6 +17,9 @@ config/Library/Application Support/Plex Media Server/Preferences.xml
 radarr-config/*.db
 sonarr-config/*.db
 
+# Secret Vault
+.env
+
 # New Rooms
 tautulli-config/
 overseerr-config/
