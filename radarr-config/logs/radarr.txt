@@ -5606,3 +5606,26 @@
 2026-04-06 09:22:07.3|Info|RssSyncService|Starting RSS Sync
 2026-04-06 09:22:17.8|Info|DownloadDecisionMaker|Processing 122 releases
 2026-04-06 09:22:26.9|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 09:33:57.9|Info|AddMovieService|Adding Movie [The Terminator (1984)][tt0088247, 218] Path: [/data/movies/The Terminator (1984)]
+2026-04-06 09:33:57.9|Info|RefreshMovieService|Updating info for The Terminator
+2026-04-06 09:33:58.0|Info|AddMovieCollectionService|Adding Collection The Terminator Collection[528]
+2026-04-06 09:33:58.1|Info|RefreshCollectionService|Updating info for The Terminator Collection
+2026-04-06 09:33:58.2|Info|MediaCoverService|Downloading Poster for [The Terminator (1984)][tt0088247, 218] https://image.tmdb.org/t/p/original/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+2026-04-06 09:33:58.2|Info|DiskScanService|Scanning disk for The Terminator
+2026-04-06 09:33:58.3|Info|DiskScanService|Completed scanning disk for The Terminator
+2026-04-06 09:33:58.3|Info|MovieScannedHandler|[The Terminator] was recently added, performing post-add actions
+2026-04-06 09:33:58.3|Info|MovieSearchService|Performing search for 1 movies
+2026-04-06 09:33:58.3|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-06 09:33:58.4|Info|ReleaseSearchService|Searching indexers for [The Terminator]. 2 active indexers
+2026-04-06 09:33:58.4|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-06 09:33:58.4|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-06 09:33:58.4|Info|MediaCoverService|Downloading Fanart for [The Terminator (1984)][tt0088247, 218] https://image.tmdb.org/t/p/original/5BZtN173AXqReBJTxE2ZikBDCl7.jpg
+2026-04-06 09:33:58.4|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-06 09:33:58.5|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-04-06 09:33:59.1|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-04-06 09:34:09.1|Info|DownloadDecisionMaker|Processing 63 releases
+2026-04-06 09:34:34.8|Info|DownloadService|Report for The Terminator (1984) sent to Deluge from indexer 1337x (Prowlarr). The.Terminator.1984.4K.HDR.DV.2160p.BDRemux Ita Eng x265-NAHOM
+2026-04-06 09:34:34.9|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-04-06 09:52:37.8|Info|RssSyncService|Starting RSS Sync
+2026-04-06 09:52:47.6|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 09:52:57.0|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0

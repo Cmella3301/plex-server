@@ -6248,3 +6248,92 @@ FeedUrl: https://eztvx.to/home
 2026-04-06 09:22:13.7|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
 2026-04-06 09:22:17.2|Debug|FlareSolverr|CF Protection not detected, returning original response
 2026-04-06 09:22:17.8|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045] from 1 indexer(s)
+2026-04-06 09:33:58.4|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [] | ID(s): IMDbId:[0088247], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2026-04-06 09:33:58.4|Debug|Cardigann|Adding request for YTS: https://movies-api.accel.li/api/v2/list_movies.json?query_term=tt0088247&limit=50&sort_by=date_added&order_by=desc
+2026-04-06 09:33:58.4|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [The Terminator 1984], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045]
+2026-04-06 09:33:58.4|Debug|Cardigann|Downloading Feed https://movies-api.accel.li/api/v2/list_movies.json?query_term=tt0088247&limit=50&sort_by=date_added&order_by=desc
+2026-04-06 09:33:58.4|Debug|Cardigann|Adding request for 1337x: https://1337x.to/sort-search/The%20Terminator%201984/time/desc/1/
+2026-04-06 09:33:58.5|Debug|Cardigann|Downloading Feed https://1337x.to/sort-search/The%20Terminator%201984/time/desc/1/
+2026-04-06 09:33:58.8|Debug|ReleaseSearchService|Total of 3 reports were found for Term: [] | ID(s): IMDbId:[0088247], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060] from 1 indexer(s)
+2026-04-06 09:33:59.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:33:59.5|Debug|Cardigann|Adding request for 1337x: https://1337x.to/sort-search/The%20Terminator%201984/time/desc/2/
+2026-04-06 09:33:59.5|Debug|Cardigann|Downloading Feed https://1337x.to/sort-search/The%20Terminator%201984/time/desc/2/
+2026-04-06 09:34:01.8|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:01.8|Debug|Cardigann|Adding request for 1337x: https://1337x.to/sort-search/The%20Terminator%201984/time/desc/3/
+2026-04-06 09:34:01.8|Debug|Cardigann|Downloading Feed https://1337x.to/sort-search/The%20Terminator%201984/time/desc/3/
+2026-04-06 09:34:05.2|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:05.3|Debug|Cardigann|Adding request for 1337x: https://1337x.to/sort-search/The%20Terminator%201984/time/desc/4/
+2026-04-06 09:34:05.3|Debug|Cardigann|Downloading Feed https://1337x.to/sort-search/The%20Terminator%201984/time/desc/4/
+2026-04-06 09:34:08.9|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:09.0|Debug|ReleaseSearchService|Total of 60 reports were found for Term: [The Terminator 1984], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045] from 1 indexer(s)
+2026-04-06 09:34:21.3|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:21.3|Debug|Cardigann|CardigannIndexer (1337x): Download selector NzbDrone.Core.Indexers.Definitions.Cardigann.SelectorField matched:
+<a class="l074d2f16b63e114c555823ce25faca72ec40bd05 ld987b018358fce13d4800f1e0964983a10c09ab8 la6a8677d7625b523515a16b08e1536aeec2474b6" target="_blank" href="http://itorrents.org/torrent/8FF14988AF5239DDF5CDF66404B54C5CBE3F8A63.torrent">
+	<span class="icon">
+		<i class="flaticon-l48950a352b14c3d620f8e1300f8aa7559ec164d6"></i>
+	</span>ITORRENTS MIRROR</a>
+2026-04-06 09:34:28.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:28.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:28.4|Debug|Cardigann|Download request is being redirected to: https://itorrents.org/torrent/8FF14988AF5239DDF5CDF66404B54C5CBE3F8A63.torrent
+2026-04-06 09:34:31.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:31.6|Debug|Cardigann|Download request is being redirected to: http://itorrents.net/torrent/8FF14988AF5239DDF5CDF66404B54C5CBE3F8A63.torrent
+2026-04-06 09:34:31.6|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:31.6|Debug|Cardigann|Download request is being redirected to: https://itorrents.net/torrent/8FF14988AF5239DDF5CDF66404B54C5CBE3F8A63.torrent
+2026-04-06 09:34:34.6|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:34:34.6|Debug|Cardigann|Downloaded for release finished (283378 bytes from https://1337x.to/torrent/6259077/The-Terminator-1984-4K-HDR-DV-2160p-BDRemux-Ita-Eng-x265-NAHOM/)
+2026-04-06 09:36:38.6|Info|ReleaseSearchService|Searching indexer(s): [EZTV] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2026-04-06 09:36:38.6|Debug|Cardigann|Adding request for EZTV: https://eztvx.to/home
+2026-04-06 09:36:38.6|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070]
+2026-04-06 09:36:38.7|Debug|Cardigann|Downloading Feed https://eztvx.to/home
+2026-04-06 09:36:38.7|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/1/
+2026-04-06 09:36:38.7|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/1/
+2026-04-06 09:36:39.1|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:36:39.2|Debug|ReleaseSearchService|Total of 100 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2026-04-06 09:36:39.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:36:40.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/1/
+2026-04-06 09:36:40.1|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/1/
+2026-04-06 09:36:42.2|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:36:42.8|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/1/
+2026-04-06 09:36:42.8|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/1/
+2026-04-06 09:36:45.0|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:36:45.2|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/1/
+2026-04-06 09:36:45.2|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
+2026-04-06 09:36:47.8|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:36:48.4|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070] from 1 indexer(s)
+2026-04-06 09:52:08.8|Info|ReleaseSearchService|Searching indexer(s): [EZTV] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000]
+2026-04-06 09:52:08.8|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070]
+2026-04-06 09:52:08.8|Debug|Cardigann|Adding request for EZTV: https://eztvx.to/home
+2026-04-06 09:52:08.8|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/1/
+2026-04-06 09:52:08.8|Debug|Cardigann|Downloading Feed https://eztvx.to/home
+2026-04-06 09:52:08.8|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/1/
+2026-04-06 09:52:09.1|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:09.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:09.5|Debug|ReleaseSearchService|Total of 100 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000] from 1 indexer(s)
+2026-04-06 09:52:09.7|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/1/
+2026-04-06 09:52:09.7|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/1/
+2026-04-06 09:52:12.0|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:12.5|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/1/
+2026-04-06 09:52:12.5|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/1/
+2026-04-06 09:52:15.0|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:15.2|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/1/
+2026-04-06 09:52:15.2|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
+2026-04-06 09:52:18.6|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:19.2|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070] from 1 indexer(s)
+2026-04-06 09:52:37.8|Info|ReleaseSearchService|Searching indexer(s): [YTS] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060]
+2026-04-06 09:52:37.8|Debug|Cardigann|Adding request for YTS: https://movies-api.accel.li/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2026-04-06 09:52:37.8|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045]
+2026-04-06 09:52:37.8|Debug|Cardigann|Downloading Feed https://movies-api.accel.li/api/v2/list_movies.json?limit=50&sort_by=date_added&order_by=desc
+2026-04-06 09:52:37.8|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/1/
+2026-04-06 09:52:37.9|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/1/
+2026-04-06 09:52:38.5|Debug|ReleaseSearchService|Total of 102 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2040, 2045, 2060] from 1 indexer(s)
+2026-04-06 09:52:38.6|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:39.3|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/1/
+2026-04-06 09:52:39.3|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/1/
+2026-04-06 09:52:41.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:42.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/1/
+2026-04-06 09:52:42.0|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/1/
+2026-04-06 09:52:44.2|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:44.4|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/1/
+2026-04-06 09:52:44.4|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
+2026-04-06 09:52:47.0|Debug|FlareSolverr|CF Protection not detected, returning original response
+2026-04-06 09:52:47.6|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045] from 1 indexer(s)
