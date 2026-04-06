@@ -1548,3 +1548,305 @@
 2026-04-06 09:07:35.3|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
 2026-04-06 09:07:35.3|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
 2026-04-06 09:07:35.3|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:09:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:09:00.3|Debug|Api|[GET] /api/v3/indexer: 200.OK (7 ms)
+2026-04-06 09:09:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:09:00.3|Debug|Api|[GET] /api/v3/indexer/2: 200.OK (7 ms)
+2026-04-06 09:09:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-04-06 09:09:00.4|Debug|Api|[GET] /api/v3/indexer/1: 200.OK (9 ms)
+2026-04-06 09:09:04.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-06 09:09:04.8|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:09:04.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:09:04.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:09:04.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:09:04.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:09:04.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:09:04.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:09:04.9|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:09:04.9|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:09:04.9|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:09:04.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:09:04.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:09:04.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:09:04.9|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:09:04.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:09:04.9|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:09:05.0|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:09:05.0|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:09:05.0|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:09:05.0|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:09:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:09:05.0|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:09:05.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:09:05.0|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:09:05.0|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:09:05.0|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:09:05.0|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:09:05.0|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:09:05.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:09:05.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:09:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:09:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:09:05.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:09:05.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:09:05.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:09:05.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:09:05.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:09:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:09:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:09:05.1|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:09:05.1|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:09:05.1|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:09:05.1|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:09:05.2|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:09:05.2|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:09:05.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:09:05.2|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:09:05.2|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:09:05.2|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:10:34.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:10:34.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:10:34.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:10:34.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:10:34.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:10:34.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:10:34.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:10:34.9|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:10:34.9|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:10:34.9|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:10:34.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:10:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:10:35.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:10:35.0|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:10:35.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:10:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:10:35.0|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:10:35.1|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:10:35.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:10:35.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:10:35.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:10:35.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:10:35.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:10:35.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:10:35.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:10:35.1|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:10:35.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:10:35.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:10:35.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:10:35.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:10:35.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:10:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:10:35.2|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:10:35.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:10:35.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:10:35.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:10:35.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:10:35.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:10:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:10:35.2|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:10:35.2|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:10:35.3|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:10:35.3|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:10:35.3|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:10:35.3|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:10:35.3|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:10:35.3|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:10:35.3|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:10:35.3|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:12:04.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:12:04.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:12:04.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:12:04.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:12:04.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:12:04.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:12:04.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:12:04.9|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:12:04.9|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:12:04.9|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:12:04.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:12:04.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:12:04.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:12:04.9|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:12:04.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:12:04.9|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:12:05.0|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:12:05.0|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:12:05.0|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:12:05.0|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:12:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:12:05.0|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:12:05.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:12:05.0|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:12:05.0|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:12:05.0|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:12:05.0|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:12:05.0|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:12:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:12:05.0|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:12:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:12:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:12:05.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:12:05.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:12:05.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:12:05.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:12:05.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:12:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:12:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:12:05.1|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:12:05.1|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:12:05.1|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:12:05.1|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:12:05.1|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:12:05.1|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:12:05.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:12:05.2|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:12:05.2|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:12:05.2|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:13:34.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:13:34.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:13:34.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:13:34.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:13:34.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:13:34.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:13:35.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:13:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:13:35.0|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:13:35.0|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:13:35.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:13:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:13:35.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:13:35.0|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:13:35.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:13:35.1|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:13:35.1|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:13:35.1|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:13:35.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:13:35.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:13:35.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:13:35.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:13:35.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:13:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:13:35.2|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:13:35.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:13:35.3|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:13:35.3|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:13:35.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:13:35.3|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:13:35.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:13:35.3|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:13:35.4|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:13:35.4|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:13:35.4|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:13:35.4|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:13:35.4|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:13:35.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:13:35.5|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:13:35.5|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:13:35.5|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:13:35.5|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:13:35.5|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:13:35.5|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:13:35.5|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:13:35.6|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:13:35.6|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:13:35.6|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:13:35.6|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:14:04.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-04-06 09:15:04.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:15:04.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:15:04.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:15:04.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:15:04.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:15:04.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:15:04.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:15:04.9|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:15:04.9|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:15:04.9|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:15:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:15:05.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:15:05.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:15:05.0|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:15:05.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:15:05.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:15:05.0|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:15:05.0|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:15:05.0|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:15:05.0|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:15:05.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:15:05.0|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:15:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:15:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:15:05.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:15:05.1|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:15:05.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:15:05.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:15:05.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:15:05.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:15:05.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:15:05.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:15:05.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:15:05.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:15:05.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:15:05.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:15:05.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:15:05.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:15:05.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:15:05.2|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:15:05.2|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:15:05.2|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:15:05.2|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:15:05.2|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:15:05.2|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:15:05.2|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:15:05.2|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:15:05.2|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:15:05.2|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:16:34.9|Debug|Parser|Parsing string 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:16:34.9|Debug|Parser|Episode Parsed. Silicon Valley - Season 03 
+2026-04-06 09:16:34.9|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:16:34.9|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S03.1080p.Bluray.x265-HiQVE'
+2026-04-06 09:16:34.9|Debug|Parser|Quality parsed: Bluray-1080p v1
+2026-04-06 09:16:34.9|Debug|Parser|Release Group parsed: HiQVE
+2026-04-06 09:16:34.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:16:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:16:35.0|Debug|Parser|Parsing string 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:16:35.0|Debug|Parser|Episode Parsed. Silicon Valley - S06E04 
+2026-04-06 09:16:35.0|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:16:35.0|Debug|QualityParser|Trying to parse quality for 'Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]'
+2026-04-06 09:16:35.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-04-06 09:16:35.0|Debug|Parser|Release Group parsed: NTb
+2026-04-06 09:16:35.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-04-06 09:16:35.0|Debug|AggregateLanguages|Selected languages: English
+2026-04-06 09:16:35.0|Debug|DownloadedEpisodesImportService|Processing path: /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:16:35.1|Debug|ImportDecisionMaker|Analyzing 1/1 files.
+2026-04-06 09:16:35.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:16:35.1|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:16:35.1|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:16:35.1|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:16:35.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:16:35.1|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:16:35.1|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:16:35.1|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:16:35.1|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:16:35.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:16:35.2|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:16:35.2|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'
+2026-04-06 09:16:35.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:16:35.2|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:16:35.2|Debug|VideoFileInfoReader|Getting media info from /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:16:35.2|Debug|Parser|Parsing string 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:16:35.2|Debug|Parser|Episode Parsed. silicon valley - S06E03 
+2026-04-06 09:16:35.3|Debug|Parser|Languages parsed: Unknown
+2026-04-06 09:16:35.3|Debug|QualityParser|Trying to parse quality for 'silicon.valley.s06e03.720p.web.h264-tbs[eztv]'
+2026-04-06 09:16:35.3|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-04-06 09:16:35.3|Debug|Parser|Release Group parsed: tbs
+2026-04-06 09:16:35.3|Debug|AggregateLanguage|Selected languages: English
+2026-04-06 09:16:35.3|Debug|QualityParser|Trying to parse quality for 'Silicon Valley S06E03 720p WEB h264-TBS'
+2026-04-06 09:16:35.3|Debug|AggregateQuality|Using quality: WEBDL-720p v1
+2026-04-06 09:16:35.3|Debug|AbsoluteEpisodeNumberSpecification|Series type is not Anime, skipping check
+2026-04-06 09:16:35.3|Debug|EpisodeTitleSpecification|File name format does not require episode title, skipping check
+2026-04-06 09:16:35.3|Debug|MatchesFolderSpecification|No folder ParsedEpisodeInfo, skipping check
+2026-04-06 09:16:35.3|Debug|DetectSample|[/data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv] does not appear to be a sample. Runtime 00:31:12.6510000 seconds is more than minimum of 300 seconds
+2026-04-06 09:16:35.4|Debug|UpgradeSpecification|This file isn't a quality upgrade for all episodes. Existing quality: WEBDL-1080p. New Quality WEBDL-720p. Skipping /data/downloads/silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv
+2026-04-06 09:16:35.4|Debug|ImportDecisionMaker|File rejected for the following reasons: [Permanent] Not an upgrade for existing episode file(s). Existing quality: WEBDL-1080p. New Quality WEBDL-720p.
+2026-04-06 09:16:35.4|Debug|CompletedDownloadService|Not all episodes have been imported for the release 'silicon.valley.s06e03.720p.web.h264-tbs[eztv].mkv'

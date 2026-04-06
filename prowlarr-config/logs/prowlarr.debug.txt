@@ -6191,3 +6191,23 @@ FeedUrl: https://eztvx.to/home
 2026-04-06 09:05:41.3|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/1/
 2026-04-06 09:05:44.1|Debug|FlareSolverr|CF Protection not detected, returning original response
 2026-04-06 09:05:44.6|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070] from 1 indexer(s)
+2026-04-06 09:09:00.2|Debug|ApplicationService|No tags set to application Radarr.
+2026-04-06 09:09:00.2|Debug|Radarr|Updating indexer 1337x [3]
+2026-04-06 09:09:00.2|Debug|Radarr|Remote indexer 1337x (Prowlarr) [2] found
+2026-04-06 09:09:00.2|Debug|ApplicationService|No tags set to application Radarr.
+2026-04-06 09:09:00.2|Debug|Radarr|Skipping add for indexer EZTV [2] due to no app Sync Categories supported by the indexer
+2026-04-06 09:09:00.2|Debug|ApplicationService|No tags set to application Radarr.
+2026-04-06 09:09:00.2|Debug|Radarr|Updating indexer YTS [1]
+2026-04-06 09:09:00.3|Debug|Radarr|Remote indexer YTS (Prowlarr) [1] found
+2026-04-06 09:09:00.3|Debug|ApplicationService|No tags set to application Radarr.
+2026-04-06 09:09:00.3|Debug|ApplicationService|No tags set to application Radarr.
+2026-04-06 09:09:00.3|Debug|ApplicationService|No tags set to application Sonarr.
+2026-04-06 09:09:00.3|Debug|Sonarr|Updating indexer 1337x [3]
+2026-04-06 09:09:00.3|Debug|Sonarr|Remote indexer 1337x (Prowlarr) [2] found
+2026-04-06 09:09:00.3|Debug|ApplicationService|No tags set to application Sonarr.
+2026-04-06 09:09:00.3|Debug|Sonarr|Updating indexer EZTV [2]
+2026-04-06 09:09:00.4|Debug|Sonarr|Remote indexer EZTV (Prowlarr) [1] found
+2026-04-06 09:09:00.4|Debug|ApplicationService|No tags set to application Sonarr.
+2026-04-06 09:09:00.4|Debug|Sonarr|Skipping add for indexer YTS [1] due to no app Sync Categories supported by the indexer
+2026-04-06 09:09:00.4|Debug|ApplicationService|No tags set to application Sonarr.
+2026-04-06 09:09:00.4|Debug|ApplicationService|No tags set to application Sonarr.
