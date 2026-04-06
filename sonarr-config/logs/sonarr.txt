@@ -6653,3 +6653,258 @@
 2026-04-05 16:54:32.1|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S06]. 2 active indexers
 2026-04-05 16:54:50.8|Info|DownloadDecisionMaker|Processing 216 releases
 2026-04-05 16:55:34.1|Info|SeriesSearchService|Series search completed. 0 reports downloaded.
+2026-04-05 16:57:16.2|Info|RssSyncService|Starting RSS Sync
+2026-04-05 16:57:26.3|Info|DownloadDecisionMaker|Processing 567 releases
+2026-04-05 16:58:54.3|Info|RssSyncService|RSS Sync Completed. Reports found: 567, Reports grabbed: 0, Reports pending: 447
+2026-04-05 17:04:49.4|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S01]. 2 active indexers
+2026-04-05 17:05:11.6|Info|DownloadDecisionMaker|Processing 234 releases
+2026-04-05 17:06:11.0|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). [REUP] Silicon.Valley.S01.1080p.BluRay.x265.HEVC.10bit.AAC.5.1 ImE [UTR]
+2026-04-05 17:06:39.2|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S02]. 2 active indexers
+2026-04-05 17:07:01.5|Info|DownloadDecisionMaker|Processing 224 releases
+2026-04-05 17:08:51.1|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon Valley Season 2 S02 1080p BluRay x264 ROVERS [RiCK]
+2026-04-05 17:09:12.3|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S03]. 2 active indexers
+2026-04-05 17:09:34.0|Info|DownloadDecisionMaker|Processing 236 releases
+2026-04-05 17:11:03.1|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S03.1080p.Bluray.x265-HiQVE
+2026-04-05 17:11:49.8|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S04]. 2 active indexers
+2026-04-05 17:12:14.6|Info|DownloadDecisionMaker|Processing 236 releases
+2026-04-05 17:13:40.0|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S04.1080p.Bluray.x265-HiQVE
+2026-04-05 17:14:17.6|Info|RssSyncService|Starting RSS Sync
+2026-04-05 17:14:18.1|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S05]. 2 active indexers
+2026-04-05 17:14:33.7|Info|DownloadDecisionMaker|Processing 322 releases
+2026-04-05 17:14:51.9|Info|DownloadDecisionMaker|Processing 236 releases
+2026-04-05 17:17:07.6|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E06.REPACK.1080p.WEB.h264 TBS[TGx] ⭐
+2026-04-05 17:17:40.6|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.Season.5.S05.1080p.AMZN.WEB-DL.x265-HETeam
+2026-04-05 17:17:47.2|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S05.1080p.MAX.WEB-DL.DDP5.1.H.264-TURG
+2026-04-05 17:17:52.9|Info|ReleaseSearchService|Searching indexers for [Silicon Valley : S06]. 2 active indexers
+2026-04-05 17:18:04.6|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E02.1080p.WEB.h264 TBS[TGx] ⭐
+2026-04-05 17:18:18.6|Info|DownloadDecisionMaker|Processing 236 releases
+2026-04-05 17:18:26.0|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E03.1080p.WEB.h264 TBS[TGx] ⭐
+2026-04-05 17:18:43.7|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E04.Maximizing.Alphaness.1080p.AMZN.WEB-DL.DDP5.1.H.264 NTb[TGx] ⭐
+2026-04-05 17:19:01.2|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E05.Tethics.1080p.AMZN.WEB-DL.DDP5.1.H.264 NTb[TGx] ⭐
+2026-04-05 17:19:22.2|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E07.Exit.Event.1080p.AMZN.WEB-DL.DDP5.1.H.264 NTb[TGx] ⭐
+2026-04-05 17:19:26.3|Info|RssSyncService|RSS Sync Completed. Reports found: 322, Reports grabbed: 7
+2026-04-05 17:20:08.7|Info|DownloadService|Report sent to Deluge. Indexer 1337x (Prowlarr). Silicon.Valley.S06E07.1080p.WEB.h264 TBS[TGx] ⭐
+2026-04-05 17:20:08.9|Info|DownloadService|Report sent to Deluge. Indexer EZTV (Prowlarr). Silicon Valley S06E03 720p WEB h264-TBS
+2026-04-05 17:20:10.9|Info|DownloadService|Report sent to Deluge. Indexer EZTV (Prowlarr). Silicon Valley S06E04 Maximizing Alphaness 720p AMZN WEB-DL DDP5 1 H 264-NTb
+2026-04-05 17:20:12.9|Info|DownloadService|Report sent to Deluge. Indexer EZTV (Prowlarr). Silicon Valley S06E05 Tethics 720p AMZN WEB-DL DDP5 1 H 264-NTb
+2026-04-05 17:20:12.9|Info|SeriesSearchService|Series search completed. 9 reports downloaded.
+2026-04-05 17:34:48.4|Info|RssSyncService|Starting RSS Sync
+2026-04-05 17:34:58.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 17:35:17.2|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 17:50:19.1|Info|RssSyncService|Starting RSS Sync
+2026-04-05 17:50:28.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 17:50:40.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 18:05:49.2|Info|RssSyncService|Starting RSS Sync
+2026-04-05 18:05:58.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 18:06:10.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 18:09:23.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E01.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:24.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E02.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:24.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E03.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:25.0|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E04.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:25.4|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E05.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:25.8|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E06.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:26.2|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E07.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:09:26.6|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 5/Silicon.Valley.S05E08.1080p.AMZN.WEB-DL.x265-HETeam.mkv
+2026-04-05 18:21:22.4|Info|RssSyncService|Starting RSS Sync
+2026-04-05 18:21:32.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 18:21:42.3|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 18:36:52.6|Info|RssSyncService|Starting RSS Sync
+2026-04-05 18:37:01.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 18:37:07.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 18:52:22.7|Info|RssSyncService|Starting RSS Sync
+2026-04-05 18:52:32.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 18:52:40.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 18:53:22.7|Info|SceneMappingService|Updating Scene mappings
+2026-04-05 18:53:22.8|Info|HousekeepingService|Running housecleaning tasks
+2026-04-05 18:53:22.8|Info|RefreshSeriesService|Skipping refresh of series: Silicon Valley
+2026-04-05 18:53:22.8|Info|DiskScanService|Scanning Silicon Valley
+2026-04-05 18:53:23.1|Info|DiskScanService|Completed scanning disk for Silicon Valley
+2026-04-05 18:53:23.2|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-05 18:53:23.2|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-05 18:53:23.3|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-05 18:53:23.3|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-05 18:53:23.8|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2026-04-05 18:53:23.8|Info|Database|Vacuuming Log database
+2026-04-05 18:53:23.9|Info|Database|Log database compressed
+2026-04-05 18:53:24.0|Info|Database|Vacuuming Main database
+2026-04-05 18:53:24.6|Info|Database|Main database compressed
+2026-04-05 19:07:52.9|Info|RssSyncService|Starting RSS Sync
+2026-04-05 19:08:08.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 19:08:16.4|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 19:23:23.1|Info|RssSyncService|Starting RSS Sync
+2026-04-05 19:23:33.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 19:23:40.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 19:38:53.3|Info|RssSyncService|Starting RSS Sync
+2026-04-05 19:39:07.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 19:39:18.2|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 19:45:24.3|Info|RecycleBinProvider|Recycling Bin has not been configured, deleting permanently. /data/tv/Silicon Valley/Season 6/Silicon.Valley.S06E07.Exit.Event.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx].mkv
+2026-04-05 19:54:23.4|Info|RssSyncService|Starting RSS Sync
+2026-04-05 19:54:32.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 19:54:38.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 20:09:53.5|Info|RssSyncService|Starting RSS Sync
+2026-04-05 20:10:03.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 20:10:10.4|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 20:25:23.9|Info|RssSyncService|Starting RSS Sync
+2026-04-05 20:25:44.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 20:25:52.2|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 20:40:54.0|Info|RssSyncService|Starting RSS Sync
+2026-04-05 20:41:03.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 20:41:11.3|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 20:56:24.2|Info|RssSyncService|Starting RSS Sync
+2026-04-05 20:56:34.1|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 20:56:40.0|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 21:11:54.4|Info|RssSyncService|Starting RSS Sync
+2026-04-05 21:12:03.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 21:12:10.0|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 21:27:24.6|Info|RssSyncService|Starting RSS Sync
+2026-04-05 21:27:33.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 21:27:39.9|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 21:42:54.8|Info|RssSyncService|Starting RSS Sync
+2026-04-05 21:43:04.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 21:43:12.3|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 21:53:24.9|Info|SceneMappingService|Updating Scene mappings
+2026-04-05 21:58:24.9|Info|RssSyncService|Starting RSS Sync
+2026-04-05 21:58:34.2|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 21:58:41.0|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 22:13:55.0|Info|RssSyncService|Starting RSS Sync
+2026-04-05 22:14:04.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 22:14:10.4|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 22:29:25.2|Info|RssSyncService|Starting RSS Sync
+2026-04-05 22:29:34.5|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 22:29:40.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 22:44:55.3|Info|RssSyncService|Starting RSS Sync
+2026-04-05 22:45:04.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 22:45:11.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:00:28.1|Info|RssSyncService|Starting RSS Sync
+2026-04-05 23:00:37.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 23:00:44.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:15:58.3|Info|RssSyncService|Starting RSS Sync
+2026-04-05 23:16:07.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 23:16:15.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:31:28.4|Info|RssSyncService|Starting RSS Sync
+2026-04-05 23:31:37.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 23:31:44.0|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:46:58.5|Info|RssSyncService|Starting RSS Sync
+2026-04-05 23:47:08.4|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 23:47:14.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 00:02:28.7|Info|RssSyncService|Starting RSS Sync
+2026-04-06 00:02:38.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 00:02:44.3|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 00:17:58.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 00:18:08.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 00:18:15.2|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 00:33:29.0|Info|RssSyncService|Starting RSS Sync
+2026-04-06 00:33:50.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 00:33:59.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 00:49:29.7|Info|RssSyncService|Starting RSS Sync
+2026-04-06 00:49:39.5|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 00:49:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 00:53:29.7|Info|SceneMappingService|Updating Scene mappings
+2026-04-06 01:04:59.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 01:05:09.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 01:05:18.1|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 01:20:30.0|Info|RssSyncService|Starting RSS Sync
+2026-04-06 01:20:40.1|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 01:20:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 01:36:00.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 01:36:10.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 01:36:19.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 01:51:30.3|Info|RssSyncService|Starting RSS Sync
+2026-04-06 01:51:40.1|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 01:51:49.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 02:07:00.4|Info|RssSyncService|Starting RSS Sync
+2026-04-06 02:07:10.2|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 02:07:20.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 02:22:30.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 02:22:40.4|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 02:22:51.1|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 02:38:00.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 02:38:10.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 02:38:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 02:53:30.8|Info|RssSyncService|Starting RSS Sync
+2026-04-06 02:53:40.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 02:53:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 03:09:00.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 03:09:10.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 03:09:16.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 03:24:31.0|Info|RssSyncService|Starting RSS Sync
+2026-04-06 03:24:40.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 03:24:46.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 03:40:01.1|Info|RssSyncService|Starting RSS Sync
+2026-04-06 03:40:10.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 03:40:18.9|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 03:53:31.3|Info|SceneMappingService|Updating Scene mappings
+2026-04-06 03:55:31.3|Info|RssSyncService|Starting RSS Sync
+2026-04-06 03:55:41.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 03:55:47.3|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 04:11:01.4|Info|RssSyncService|Starting RSS Sync
+2026-04-06 04:11:11.2|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 04:11:16.9|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 04:26:31.6|Info|RssSyncService|Starting RSS Sync
+2026-04-06 04:26:41.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 04:26:47.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 04:42:01.7|Info|RssSyncService|Starting RSS Sync
+2026-04-06 04:42:23.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 04:42:29.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 04:57:31.8|Info|RssSyncService|Starting RSS Sync
+2026-04-06 04:57:41.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 04:57:47.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 05:13:02.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 05:13:12.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 05:13:17.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 05:28:32.4|Info|RssSyncService|Starting RSS Sync
+2026-04-06 05:28:42.1|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 05:28:47.8|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 05:44:02.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 05:44:12.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 05:44:18.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 05:59:32.6|Info|RssSyncService|Starting RSS Sync
+2026-04-06 05:59:42.4|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 05:59:48.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 06:15:02.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 06:15:13.5|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 06:15:19.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 06:30:33.1|Info|RssSyncService|Starting RSS Sync
+2026-04-06 06:30:42.9|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 06:30:48.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 06:46:03.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 06:46:13.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 06:46:18.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 06:53:33.3|Info|RefreshSeriesService|Skipping refresh of series: Silicon Valley
+2026-04-06 06:53:33.3|Info|SceneMappingService|Updating Scene mappings
+2026-04-06 06:53:33.3|Info|DiskScanService|Scanning Silicon Valley
+2026-04-06 06:53:33.7|Info|DiskScanService|Completed scanning disk for Silicon Valley
+2026-04-06 06:53:33.7|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-06 06:53:33.8|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-06 06:53:33.8|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-06 06:53:33.8|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-06 07:01:33.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 07:01:43.3|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 07:01:49.4|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 07:17:03.7|Info|RssSyncService|Starting RSS Sync
+2026-04-06 07:17:13.5|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 07:17:19.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 07:32:34.0|Info|RssSyncService|Starting RSS Sync
+2026-04-06 07:32:43.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 07:32:50.0|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 07:48:04.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 07:48:14.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 07:48:19.9|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 08:03:34.3|Info|RssSyncService|Starting RSS Sync
+2026-04-06 08:03:44.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 08:03:49.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 08:19:04.4|Info|RssSyncService|Starting RSS Sync
+2026-04-06 08:19:14.8|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 08:19:20.2|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 08:34:34.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 08:34:45.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 08:34:50.6|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 08:50:04.6|Info|RssSyncService|Starting RSS Sync
+2026-04-06 08:50:25.4|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 08:50:31.4|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 09:03:57.3|Warn|LanguageProfileController|API call made to deprecated endpoint from axios/1.3.4
+2026-04-06 09:04:19.0|Warn|LanguageProfileController|API call made to deprecated endpoint from axios/1.3.4
+2026-04-06 09:05:22.9|Warn|LanguageProfileController|API call made to deprecated endpoint from axios/1.3.4
+2026-04-06 09:05:34.8|Info|RssSyncService|Starting RSS Sync
+2026-04-06 09:05:44.7|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 09:05:51.3|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0

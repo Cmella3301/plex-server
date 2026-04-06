@@ -5442,3 +5442,164 @@
 2026-04-05 16:35:16.6|Info|RssSyncService|Starting RSS Sync
 2026-04-05 16:35:26.7|Info|DownloadDecisionMaker|Processing 119 releases
 2026-04-05 16:35:34.3|Info|RssSyncService|RSS Sync Completed. Reports found: 119, Reports grabbed: 0
+2026-04-05 17:05:47.1|Info|RssSyncService|Starting RSS Sync
+2026-04-05 17:05:59.5|Info|DownloadDecisionMaker|Processing 119 releases
+2026-04-05 17:06:07.6|Info|RssSyncService|RSS Sync Completed. Reports found: 119, Reports grabbed: 0
+2026-04-05 17:36:19.0|Info|RssSyncService|Starting RSS Sync
+2026-04-05 17:36:29.1|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 17:36:43.7|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 18:06:49.5|Info|RssSyncService|Starting RSS Sync
+2026-04-05 18:06:58.8|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 18:07:10.8|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 18:37:22.8|Info|RssSyncService|Starting RSS Sync
+2026-04-05 18:37:32.2|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 18:37:41.5|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 18:52:53.1|Info|HousekeepingService|Running housecleaning tasks
+2026-04-05 18:52:53.1|Info|RecycleBinProvider|Recycle Bin has not been configured, cannot cleanup.
+2026-04-05 18:52:53.3|Info|DiskScanService|Scanning disk for Mortal Kombat
+2026-04-05 18:52:53.5|Info|DiskScanService|Completed scanning disk for Mortal Kombat
+2026-04-05 18:52:53.6|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-05 18:52:53.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-05 18:52:53.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-05 18:52:53.7|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-05 18:52:53.9|Info|Database|Vacuuming Log database
+2026-04-05 18:52:54.0|Info|Database|Log database compressed
+2026-04-05 18:52:54.0|Info|Database|Vacuuming Main database
+2026-04-05 18:52:54.2|Info|Database|Main database compressed
+2026-04-05 19:07:53.3|Info|RssSyncService|Starting RSS Sync
+2026-04-05 19:08:14.3|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 19:08:23.3|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 19:38:23.7|Info|RssSyncService|Starting RSS Sync
+2026-04-05 19:38:33.1|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 19:38:41.4|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 20:08:54.2|Info|RssSyncService|Starting RSS Sync
+2026-04-05 20:09:03.4|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 20:09:10.2|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 20:39:24.6|Info|RssSyncService|Starting RSS Sync
+2026-04-05 20:39:33.9|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 20:39:42.3|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 21:09:55.0|Info|RssSyncService|Starting RSS Sync
+2026-04-05 21:10:04.3|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 21:10:11.9|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 21:40:25.5|Info|RssSyncService|Starting RSS Sync
+2026-04-05 21:40:35.0|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 21:40:42.2|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 22:10:55.9|Info|RssSyncService|Starting RSS Sync
+2026-04-05 22:11:05.2|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-05 22:11:12.0|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-05 22:41:26.3|Info|RssSyncService|Starting RSS Sync
+2026-04-05 22:41:35.8|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 22:41:43.1|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:11:58.3|Info|RssSyncService|Starting RSS Sync
+2026-04-05 23:12:08.1|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 23:12:14.7|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:42:28.5|Info|RssSyncService|Starting RSS Sync
+2026-04-05 23:42:38.6|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-05 23:42:45.5|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-05 23:46:18.8|Info|AddMovieService|Adding Movie [Anaconda (2025)][tt33244668, 1234731] Path: [/data/movies/Anaconda (2025)]
+2026-04-05 23:46:18.9|Info|RefreshMovieService|Updating info for Anaconda
+2026-04-05 23:46:19.0|Info|MediaCoverService|Downloading Poster for [Anaconda (2025)][tt33244668, 1234731] https://image.tmdb.org/t/p/original/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg
+2026-04-05 23:46:19.0|Info|DiskScanService|Scanning disk for Anaconda
+2026-04-05 23:46:19.0|Info|DiskScanService|Completed scanning disk for Anaconda
+2026-04-05 23:46:19.0|Info|MovieScannedHandler|[Anaconda] was recently added, performing post-add actions
+2026-04-05 23:46:19.1|Info|MovieSearchService|Performing search for 1 movies
+2026-04-05 23:46:19.1|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-05 23:46:19.1|Info|ReleaseSearchService|Searching indexers for [Anaconda]. 2 active indexers
+2026-04-05 23:46:19.1|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-05 23:46:19.2|Info|MediaCoverService|Downloading Fanart for [Anaconda (2025)][tt33244668, 1234731] https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg
+2026-04-05 23:46:19.2|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-05 23:46:19.2|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-05 23:46:19.2|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-04-05 23:46:20.0|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-04-05 23:46:22.8|Info|DownloadDecisionMaker|Processing 30 releases
+2026-04-05 23:46:42.4|Info|DownloadService|Report for Anaconda (2025) sent to Deluge from indexer 1337x (Prowlarr). Anaconda 2025 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E
+2026-04-05 23:46:42.5|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-04-05 23:51:23.7|Info|MovieService|Deleted movie [Anaconda (2025)][tt33244668, 1234731]
+2026-04-06 00:12:58.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 00:13:08.9|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 00:13:15.8|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 00:24:12.2|Info|AddMovieService|Adding Movie [Anaconda (2025)][tt33244668, 1234731] Path: [/data/movies/Anaconda (2025)]
+2026-04-06 00:24:12.3|Info|RefreshMovieService|Updating info for Anaconda
+2026-04-06 00:24:12.4|Info|MediaCoverService|Downloading Poster for [Anaconda (2025)][tt33244668, 1234731] https://image.tmdb.org/t/p/original/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg
+2026-04-06 00:24:12.4|Info|DiskScanService|Scanning disk for Anaconda
+2026-04-06 00:24:12.5|Info|DiskScanService|Completed scanning disk for Anaconda
+2026-04-06 00:24:12.5|Info|MovieScannedHandler|[Anaconda] was recently added, performing post-add actions
+2026-04-06 00:24:12.5|Info|MovieSearchService|Performing search for 1 movies
+2026-04-06 00:24:12.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-06 00:24:12.6|Info|ReleaseSearchService|Searching indexers for [Anaconda]. 2 active indexers
+2026-04-06 00:24:12.6|Info|MediaCoverService|Downloading Fanart for [Anaconda (2025)][tt33244668, 1234731] https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg
+2026-04-06 00:24:12.6|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-06 00:24:12.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-06 00:24:12.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-06 00:24:12.7|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-04-06 00:24:13.3|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
+2026-04-06 00:24:16.5|Info|DownloadDecisionMaker|Processing 30 releases
+2026-04-06 00:24:35.3|Info|DownloadService|Report for Anaconda (2025) sent to Deluge from indexer 1337x (Prowlarr). Anaconda 2025 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E
+2026-04-06 00:24:35.4|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2026-04-06 00:43:29.4|Info|RssSyncService|Starting RSS Sync
+2026-04-06 00:43:39.6|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 00:43:47.4|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 01:14:00.7|Info|RssSyncService|Starting RSS Sync
+2026-04-06 01:14:10.6|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 01:14:19.7|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 01:44:31.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 01:44:41.2|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 01:44:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 02:15:01.8|Info|RssSyncService|Starting RSS Sync
+2026-04-06 02:15:11.8|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 02:15:22.9|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 02:43:33.4|Info|MovieService|Assigning file [Anaconda 2025 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E.mkv] to movie [[Anaconda (2025)][tt33244668, 1234731]]
+2026-04-06 02:45:32.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 02:45:41.9|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 02:45:48.7|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 03:16:02.6|Info|RssSyncService|Starting RSS Sync
+2026-04-06 03:16:12.5|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 03:16:18.9|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 03:46:32.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 03:46:42.7|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 03:46:49.5|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 04:17:03.2|Info|RssSyncService|Starting RSS Sync
+2026-04-06 04:17:13.0|Info|DownloadDecisionMaker|Processing 120 releases
+2026-04-06 04:17:19.4|Info|RssSyncService|RSS Sync Completed. Reports found: 120, Reports grabbed: 0
+2026-04-06 04:47:33.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 04:47:43.4|Info|DownloadDecisionMaker|Processing 121 releases
+2026-04-06 04:47:49.8|Info|RssSyncService|RSS Sync Completed. Reports found: 121, Reports grabbed: 0
+2026-04-06 05:18:03.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 05:18:14.2|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 05:18:20.9|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 05:48:34.5|Info|RssSyncService|Starting RSS Sync
+2026-04-06 05:48:44.3|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 05:48:50.8|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 06:19:04.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 06:19:15.3|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 06:19:22.2|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 06:49:35.3|Info|RssSyncService|Starting RSS Sync
+2026-04-06 06:49:45.1|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 06:49:51.7|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 07:20:05.9|Info|RssSyncService|Starting RSS Sync
+2026-04-06 07:20:16.4|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 07:20:24.4|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 07:50:36.3|Info|RssSyncService|Starting RSS Sync
+2026-04-06 07:50:46.1|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 07:50:52.7|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 08:21:06.7|Info|RssSyncService|Starting RSS Sync
+2026-04-06 08:21:16.5|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 08:21:23.1|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 08:51:37.0|Info|RssSyncService|Starting RSS Sync
+2026-04-06 08:51:46.8|Info|DownloadDecisionMaker|Processing 122 releases
+2026-04-06 08:51:55.5|Info|RssSyncService|RSS Sync Completed. Reports found: 122, Reports grabbed: 0
+2026-04-06 09:06:08.1|Info|AddMovieService|Adding Movie [Hoppers (2026)][tt26443616, 1327819] Path: [/data/movies/Hoppers (2026)]
+2026-04-06 09:06:08.2|Info|RefreshMovieService|Updating info for Hoppers
+2026-04-06 09:06:08.3|Info|MediaCoverService|Downloading Poster for [Hoppers (2026)][tt26443616, 1327819] https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg
+2026-04-06 09:06:08.4|Info|DiskScanService|Scanning disk for Hoppers
+2026-04-06 09:06:08.4|Info|DiskScanService|Completed scanning disk for Hoppers
+2026-04-06 09:06:08.5|Info|MovieScannedHandler|[Hoppers] was recently added, performing post-add actions
+2026-04-06 09:06:08.5|Info|MovieSearchService|Performing search for 0 movies
+2026-04-06 09:06:08.5|Info|ExistingMetadataImporter|Found 0 existing metadata files
+2026-04-06 09:06:08.5|Info|MovieSearchService|Completed search for 0 movies. 0 reports downloaded.
+2026-04-06 09:06:08.5|Info|ExistingSubtitleImporter|Found 0 existing subtitle files
+2026-04-06 09:06:08.6|Info|ExistingOtherExtraImporter|Found 0 existing other extra files
+2026-04-06 09:06:08.6|Info|ExistingExtraFileService|Found 0 possible extra files, imported 0 files.
+2026-04-06 09:06:08.6|Info|MediaCoverService|Downloading Fanart for [Hoppers (2026)][tt26443616, 1327819] https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg
+2026-04-06 09:06:08.6|Info|MetadataService|Movie folder does not exist, skipping metadata creation
+2026-04-06 09:06:09.3|Info|MetadataService|Movie folder does not exist, skipping metadata image creation

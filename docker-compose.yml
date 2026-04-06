@@ -15,6 +15,7 @@ services:
       - TZ=America/New_York
       - PLEX_CLAIM=claim-tgd-QxGHsaHsfCUTAZUh
       - VERSION=docker
+      - ADVERTISE_IP=http://192.168.2.56:32400/
     volumes:
       - ./config:/config
       - "D:\\PlexMedia:/data"
@@ -99,4 +100,33 @@ services:
       - TZ=America/New_York
     ports:
       - "8191:8191"
+    restart: unless-stopped
+
+  tautulli:
+    image: lscr.io/linuxserver/tautulli:latest
+    container_name: tautulli
+    networks:
+      - media-network
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+    volumes:
+      - ./tautulli-config:/config
+    ports:
+      - "8181:8181"
+    restart: unless-stopped
+
+  overseerr:
+    image: sctx/overseerr:latest
+    container_name: overseerr
+    networks:
+      - media-network
+    environment:
+      - LOG_LEVEL=debug
+      - TZ=America/New_York
+    volumes:
+      - ./overseerr-config:/app/config
+    ports:
+      - "5055:5055"
     restart: unless-stopped
